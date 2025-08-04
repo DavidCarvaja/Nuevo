@@ -2144,3 +2144,121 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 08:11:41.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=513, y=64, z=110} BlockPos{x=511, y=63, z=111}
 [04Aug2025 08:11:41.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=513, y=64, z=110} BlockPos{x=511, y=63, z=111}
 [04Aug2025 08:11:46.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego q biomas hay por tu gao
+[04Aug2025 08:12:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> uno medio fungico y el del spawn
+[04Aug2025 08:12:19.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=508, y=66, z=127} BlockPos{x=505, y=66, z=127}
+[04Aug2025 08:12:19.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=508, y=66, z=127} BlockPos{x=505, y=66, z=127}
+[04Aug2025 08:12:19.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=508, y=66, z=127} BlockPos{x=505, y=66, z=127}
+[04Aug2025 08:12:26.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no hay nada oscuro?
+[04Aug2025 08:12:33.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> se donde hay
+[04Aug2025 08:12:46.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> te sabes las coords?
+[04Aug2025 08:13:15.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> x 40 z 2 y70
+[04Aug2025 08:13:55.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> -40*
+[04Aug2025 08:14:05.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=530, y=64, z=148} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:05.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=530, y=64, z=148} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:05.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=530, y=64, z=148} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:05.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=530, y=64, z=149} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:05.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=531, y=65, z=149} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:05.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=531, y=65, z=149} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:05.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=531, y=65, z=149} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:05.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=531, y=65, z=149} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:05.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=531, y=65, z=149} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:06.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=530, y=64, z=150} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:06.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=530, y=64, z=150} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:06.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=530, y=64, z=150} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:06.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=530, y=64, z=150} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:06.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=530, y=64, z=150} BlockPos{x=530, y=64, z=147}
+[04Aug2025 08:14:08.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=525, y=65, z=157} BlockPos{x=525, y=64, z=158}
+[04Aug2025 08:14:18.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=514, y=68, z=173} BlockPos{x=515, y=67, z=172}
+[04Aug2025 08:14:20.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=512, y=68, z=179} BlockPos{x=514, y=66, z=179}
+[04Aug2025 08:14:20.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=512, y=68, z=179} BlockPos{x=514, y=66, z=179}
+[04Aug2025 08:14:26.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=526, y=65, z=163} BlockPos{x=527, y=63, z=162}
+[04Aug2025 08:14:31.697] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 08:14:34.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> diego te falta mucho?
+[04Aug2025 08:14:43.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=536, y=65, z=174} BlockPos{x=535, y=65, z=174}
+[04Aug2025 08:14:43.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=536, y=65, z=174} BlockPos{x=535, y=65, z=174}
+[04Aug2025 08:14:50.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=541, y=67, z=174} BlockPos{x=540, y=66, z=174}
+[04Aug2025 08:14:51.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=543, y=68, z=175} BlockPos{x=543, y=66, z=176}
+[04Aug2025 08:15:00.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> bastante
+[04Aug2025 08:15:06.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> mielda
+[04Aug2025 08:15:08.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=523, y=68, z=184} BlockPos{x=524, y=67, z=185}
+[04Aug2025 08:15:08.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=523, y=68, z=184} BlockPos{x=524, y=67, z=185}
+[04Aug2025 08:15:08.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=523, y=68, z=184} BlockPos{x=524, y=67, z=185}
+[04Aug2025 08:15:08.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=523, y=68, z=184} BlockPos{x=524, y=67, z=185}
+[04Aug2025 08:15:08.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=523, y=67, z=186} BlockPos{x=524, y=67, z=185}
+[04Aug2025 08:15:08.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=523, y=67, z=186} BlockPos{x=524, y=67, z=185}
+[04Aug2025 08:15:08.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=522, y=67, z=186} BlockPos{x=524, y=67, z=185}
+[04Aug2025 08:15:08.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=522, y=67, z=186} BlockPos{x=524, y=67, z=185}
+[04Aug2025 08:15:08.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=522, y=67, z=186} BlockPos{x=524, y=67, z=185}
+[04Aug2025 08:15:08.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=521, y=67, z=186} BlockPos{x=524, y=67, z=185}
+[04Aug2025 08:15:08.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=521, y=67, z=186} BlockPos{x=524, y=67, z=185}
+[04Aug2025 08:15:16.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> xq
+[04Aug2025 08:15:19.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> por llegar o por cossas q hacer?
+[04Aug2025 08:15:29.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> por llegar digo
+[04Aug2025 08:15:54.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> mas men os
+[04Aug2025 08:16:08.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> okis
+[04Aug2025 08:16:37.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> acere tengo puesta la musica de la del meme del hombre lobo
+[04Aug2025 08:16:45.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> animals de maroon 5
+[04Aug2025 08:16:52.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> esas
+[04Aug2025 08:16:54.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> temazo, lo escuchaba antes de q fuera meme
+[04Aug2025 08:17:03.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> esa*
+[04Aug2025 08:17:05.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=65, z=-1} BlockPos{x=135, y=64, z=-2}
+[04Aug2025 08:17:05.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=65, z=-1} BlockPos{x=135, y=64, z=-2}
+[04Aug2025 08:17:08.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=131, y=68, z=-16} BlockPos{x=131, y=67, z=-17}
+[04Aug2025 08:17:08.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=131, y=68, z=-16} BlockPos{x=131, y=67, z=-17}
+[04Aug2025 08:17:08.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=131, y=68, z=-16} BlockPos{x=131, y=67, z=-17}
+[04Aug2025 08:17:08.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=131, y=68, z=-16} BlockPos{x=131, y=67, z=-17}
+[04Aug2025 08:17:08.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> maricon*
+[04Aug2025 08:17:20.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no encontraba el asterisco
+[04Aug2025 08:17:38.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego q haces en el spawn
+[04Aug2025 08:17:47.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> slip
+[04Aug2025 08:17:54.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> buscando arena pa dos años
+[04Aug2025 08:18:10.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si encuentra pasa cords
+[04Aug2025 08:18:18.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me hace falta 10 stacks
+[04Aug2025 08:18:21.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> se donde hay
+[04Aug2025 08:18:24.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> cojone
+[04Aug2025 08:18:26.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> asere a ustedes no los atacan los fantasmas?
+[04Aug2025 08:18:29.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no
+[04Aug2025 08:18:36.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> yo no he visto
+[04Aug2025 08:18:40.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> a mi siempre me caen arriba,dp
+[04Aug2025 08:18:56.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> porq no has dormido
+[04Aug2025 08:19:02.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pero no tengo cama ariiba
+[04Aug2025 08:19:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dormi hace pocow
+[04Aug2025 08:19:12.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> te sale cada 3 noches
+[04Aug2025 08:19:31.694] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 08:19:31.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> literalmente dormi a la vez q tu cuando diego se desconectó
+[04Aug2025 08:19:42.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a
+[04Aug2025 08:19:51.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> puede ser por la luna
+[04Aug2025 08:21:48.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ariel mi amor
+[04Aug2025 08:21:54.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tengo un problema
+[04Aug2025 08:21:54.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dime
+[04Aug2025 08:22:01.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> lo rapìdo q te enchulas de las nena
+[04Aug2025 08:22:11.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no tengo agua para bajar
+[04Aug2025 08:22:18.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> reza
+[04Aug2025 08:22:42.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> voy a activar esto
+[04Aug2025 08:22:45.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si
+[04Aug2025 08:22:47.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> me da fiaca buscar awaw
+[04Aug2025 08:23:27.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q es esto
+[04Aug2025 08:23:33.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> capilla
+[04Aug2025 08:23:47.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a
+[04Aug2025 08:24:31.695] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 08:27:18.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> voy a mimir
+[04Aug2025 08:27:24.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> diego mañana dame la arena
+[04Aug2025 08:27:32.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ok
+[04Aug2025 08:27:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q te la deje en un cofre
+[04Aug2025 08:27:40.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> polneta
+[04Aug2025 08:27:45.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> peyego
+[04Aug2025 08:28:06.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
+[04Aug2025 08:28:06.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[04Aug2025 08:28:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> que hora es alla?
+[04Aug2025 08:28:41.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> las 4 y media
+[04Aug2025 08:28:53.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> alla son las 10 no?
+[04Aug2025 08:28:59.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> si xD
+[04Aug2025 08:29:12.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> 6 horas de diferencia
+[04Aug2025 08:29:25.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> es dp
+[04Aug2025 08:29:31.663] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 08:29:35.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> tengo que madrugar
+[04Aug2025 08:29:52.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a las 6 de la mañana para entrar tempranito
+[04Aug2025 08:31:31.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pinga ya me estpy quedando sin piedra
+[04Aug2025 08:31:40.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> cojone
+[04Aug2025 08:31:52.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> piedra tengo facil 20 stacks
+[04Aug2025 08:32:01.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> n pense q me iba a usar los 4 cofres de piedra
