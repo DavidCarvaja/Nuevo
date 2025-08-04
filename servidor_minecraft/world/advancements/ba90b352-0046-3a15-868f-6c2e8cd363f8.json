@@ -860,14 +860,17 @@
       "minecraft:cold_ocean": "2025-08-04 08:50:15 +0000",
       "minecraft:beach": "2025-08-04 08:50:53 +0000",
       "minecraft:old_growth_pine_taiga": "2025-08-03 22:26:23 +0000",
-      "minecraft:frozen_river": "2025-08-03 06:49:51 +0000",
       "minecraft:forest": "2025-08-03 22:38:51 +0000",
       "minecraft:taiga": "2025-08-03 22:16:42 +0000",
       "minecraft:river": "2025-08-03 04:20:38 +0000",
-      "minecraft:swamp": "2025-08-03 22:13:23 +0000",
       "minecraft:stony_shore": "2025-08-03 22:30:33 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-08-03 22:25:38 +0000",
+      "minecraft:lush_caves": "2025-08-04 09:45:46 +0000",
       "minecraft:snowy_taiga": "2025-08-03 22:42:45 +0000",
+      "minecraft:dripstone_caves": "2025-08-04 09:30:18 +0000",
+      "minecraft:frozen_river": "2025-08-03 06:49:51 +0000",
+      "minecraft:deep_dark": "2025-08-04 09:33:17 +0000",
+      "minecraft:swamp": "2025-08-03 22:13:23 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-08-03 22:25:38 +0000",
       "minecraft:plains": "2025-08-04 08:50:52 +0000"
     },
     "done": false
@@ -4082,6 +4085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-08-04 09:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-08-04 08:51:38 +0000"
@@ -4097,6 +4106,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-04 05:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-04 09:44:23 +0000"
     },
     "done": true
   },
@@ -4136,9 +4151,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_the_recipe": "2025-08-04 09:54:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2025-08-04 09:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-04 05:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-04 09:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-04 09:44:23 +0000"
     },
     "done": true
   },
@@ -4172,6 +4211,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-04 09:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-08-04 08:42:00 +0000"
@@ -4181,6 +4226,18 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-08-04 08:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-04 09:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-08-04 09:49:59 +0000"
     },
     "done": true
   },
