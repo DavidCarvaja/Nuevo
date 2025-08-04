@@ -2329,3 +2329,27 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 09:23:17.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:34157] logged in with entity id 108661 at (962.7820514431094, 137.57969854367613, 11.79577788547778)
 [04Aug2025 09:23:17.444] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [blasting, smelting, stonecutting, crafting, campfire_cooking, smithing, smoking]
 [04Aug2025 09:23:17.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[04Aug2025 09:23:25.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> shit
+[04Aug2025 09:23:27.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tremendo el waterdrop
+[04Aug2025 09:23:35.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> el lagdrop
+[04Aug2025 09:23:57.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> dale vamo a farmear pizarra
+[04Aug2025 09:24:01.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> vamo
+[04Aug2025 09:24:31.660] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 09:25:59.323] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 09:25:59.323] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 09:26:00.023] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 09:26:21.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> que mierda e cueva pense que llegaba mas abajo
+[04Aug2025 09:28:35.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si muero recuerdenme
+[04Aug2025 09:28:47.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q tanque soy
+[04Aug2025 09:29:31.660] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 09:31:17.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> que era eso
+[04Aug2025 09:31:31.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> un creeper con mochila
+[04Aug2025 09:31:55.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> la musica se pone tetrica
+[04Aug2025 09:32:19.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> minecraft en el momento mas tranqui:
+[04Aug2025 09:33:03.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ostia
+[04Aug2025 09:33:09.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> una ancient
+[04Aug2025 09:33:14.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> o la del warden
+[04Aug2025 09:33:21.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> o no
+[04Aug2025 09:33:21.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> puede ser
+[04Aug2025 09:33:25.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> no se xd
+[04Aug2025 09:33:28.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Sneak 100]
