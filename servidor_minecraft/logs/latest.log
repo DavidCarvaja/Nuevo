@@ -554,3 +554,50 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 07:29:59.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> felices pajas
 [04Aug2025 07:31:01.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> voy Eduardo
 [04Aug2025 07:31:09.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> es el mrbeast
+[04Aug2025 07:33:27.396] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 07:33:27.397] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 07:33:27.450] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 07:33:27.450] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 07:33:29.652] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 07:33:29.652] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 07:33:31.444] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 07:33:31.491] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 07:33:34.094] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 07:35:44.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> pa la pinga
+[04Aug2025 07:35:53.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> es q voy a hacer un castillo
+[04Aug2025 07:36:51.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mira ven
+[04Aug2025 07:36:59.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> pera
+[04Aug2025 07:37:03.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> dejame botar cosas
+[04Aug2025 07:37:12.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> al final necesitas tierra?
+[04Aug2025 07:38:31.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> en esta mochila
+[04Aug2025 07:38:41.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tiene la mejora de el cortapiedras
+[04Aug2025 07:38:50.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ponme la piedra en lo ladrillos
+[04Aug2025 07:44:45.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
+[04Aug2025 07:44:45.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[04Aug2025 07:45:58.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> alguien tiene pila de tronco de abeto?
+[04Aug2025 07:52:01.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> las murallas tan bien
+[04Aug2025 07:52:10.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y eso q nda mas son las interiores
+[04Aug2025 07:53:27.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> alguien tiene tablones o troncos de roble?
+[04Aug2025 07:53:36.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> nop
+[04Aug2025 07:53:50.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> el bosque de arldededor de la casa tiene unos cuantos
+[04Aug2025 07:55:51.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> eso en las esquinas q hicimos ahi vamos a hacerlo alante tambien
+[04Aug2025 07:57:56.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> perate q tengo q pensar q hacer ahora
+[04Aug2025 07:58:00.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> dale
+[04Aug2025 07:58:21.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> debi haber buscado un tutorial es hasta mas facil
+[04Aug2025 07:59:37.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:34115] logged in with entity id 71572 at (907.6509365143511, 139.0, 24.679869483252148)
+[04Aug2025 07:59:37.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[04Aug2025 07:59:43.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> diego
+[04Aug2025 07:59:47.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> estas ocupado?
+[04Aug2025 07:59:57.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> no solo construyendo
+[04Aug2025 08:00:04.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ayudame a talar
+[04Aug2025 08:00:05.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> jijij
+[04Aug2025 08:00:34.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> donde estas ni me sale en el mapa xD
+[04Aug2025 08:00:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> duerman pa ir pa alla
+[04Aug2025 08:00:47.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> al sur de donde está esta gente
+[04Aug2025 08:00:53.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> importancia de la tilde
+[04Aug2025 08:01:04.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> con la j abres el minimapa
+[04Aug2025 08:01:14.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ik
+[04Aug2025 08:01:23.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> eso significa q sabe eduardo
+[04Aug2025 08:01:24.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> pero lo que te digo es que no la tengo explorada
+[04Aug2025 08:01:31.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> XDDD
+[04Aug2025 08:01:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> cojone pero no te salgo?
