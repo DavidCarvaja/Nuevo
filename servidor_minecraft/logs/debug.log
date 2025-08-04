@@ -1664,3 +1664,23 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 05:49:01.028] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [04Aug2025 05:49:01.028] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [04Aug2025 05:49:01.029] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 05:49:29.835] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 05:49:53.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved wrongly!
+[04Aug2025 05:50:09.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> con la piedra negra quedaria mejor
+[04Aug2025 05:50:20.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> q hacen
+[04Aug2025 05:50:23.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> en que parte?
+[04Aug2025 05:50:25.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tienes un cortapiedras?
+[04Aug2025 05:50:49.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> lo tenia en un saco xd
+[04Aug2025 05:51:09.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> elige una de las 3
+[04Aug2025 05:51:59.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> wf
+[04Aug2025 05:52:05.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> q hacen
+[04Aug2025 05:52:12.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> decorando mi kasa
+[04Aug2025 05:52:42.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> revisa el mecanismo
+[04Aug2025 05:52:57.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> pinga
+[04Aug2025 05:54:29.597] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Aug2025 05:56:33.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya
+[04Aug2025 05:56:40.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[04Aug2025 05:59:00.628] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 05:59:04.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> algo se jodio
+[04Aug2025 05:59:28.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya?
+[04Aug2025 05:59:29.599] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
