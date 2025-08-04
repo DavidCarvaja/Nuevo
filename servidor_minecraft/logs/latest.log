@@ -771,3 +771,12 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 08:51:15.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ahora si
 [04Aug2025 08:51:27.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> voy por 30 stacks creo
 [04Aug2025 08:51:34.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> el hueso
+[04Aug2025 08:54:36.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> 35 stacks
+[04Aug2025 08:54:41.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> voy pire
+[04Aug2025 08:57:12.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> que es eso del tp que estaban hablando
+[04Aug2025 08:57:24.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> es arena de almas con una enderperl
+[04Aug2025 08:57:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> vi un mod que era una estructura que era pa tp
+[04Aug2025 08:57:29.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> a
+[04Aug2025 08:58:25.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 9.375385296063541,-3.7358406727282727,1.149506862678166
+[04Aug2025 08:58:41.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 9.77080891726348,-0.04353562014750878,2.5404963297483185
+[04Aug2025 09:00:14.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 10.13856961236445,1.044812420399012,1.8715868087077243
