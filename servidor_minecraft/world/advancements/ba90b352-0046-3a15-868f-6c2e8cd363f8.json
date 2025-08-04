@@ -893,6 +893,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-03 22:32:31 +0000",
       "minecraft:skeleton": "2025-08-03 04:25:18 +0000",
+      "minecraft:bogged": "2025-08-03 04:34:47 +0000",
       "minecraft:piglin": "2025-08-03 09:21:56 +0000",
       "minecraft:breeze": "2025-08-03 04:52:54 +0000",
       "minecraft:enderman": "2025-08-03 04:52:01 +0000",
@@ -901,7 +902,7 @@
       "minecraft:piglin_brute": "2025-08-03 09:02:23 +0000",
       "minecraft:zombie": "2025-08-03 04:24:58 +0000",
       "minecraft:creeper": "2025-08-03 05:11:36 +0000",
-      "minecraft:bogged": "2025-08-03 04:34:47 +0000",
+      "minecraft:drowned": "2025-08-04 07:05:21 +0000",
       "minecraft:slime": "2025-08-03 10:01:46 +0000"
     },
     "done": false
@@ -4088,6 +4089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 07:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-04 05:50:57 +0000"
@@ -4097,6 +4104,12 @@
   "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
     "criteria": {
       "has_jukebox_upgrade": "2025-08-04 05:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 07:06:09 +0000"
     },
     "done": true
   },
@@ -4118,9 +4131,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 07:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-04 05:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-04 07:06:09 +0000"
     },
     "done": true
   },
