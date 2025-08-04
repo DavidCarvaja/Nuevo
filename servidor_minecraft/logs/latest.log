@@ -224,3 +224,49 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [04Aug2025 05:59:00.628] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [04Aug2025 05:59:04.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> algo se jodio
 [04Aug2025 05:59:28.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya?
+[04Aug2025 06:00:03.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya
+[04Aug2025 06:00:15.380] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:00:15.380] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:00:15.381] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:00:15.727] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:00:17.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david tu tienes libros?
+[04Aug2025 06:00:45.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> normales no?
+[04Aug2025 06:00:48.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> sorry
+[04Aug2025 06:00:55.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pájaro
+[04Aug2025 06:00:56.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> sin en ?
+[04Aug2025 06:01:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> el*
+[04Aug2025 06:01:13.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> brr brr patapim
+[04Aug2025 06:01:31.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> se ve bien
+[04Aug2025 06:05:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q confi
+[04Aug2025 06:05:17.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:41159] logged in with entity id 6992 at (1076.4608443276707, 116.0, -173.34367851046582)
+[04Aug2025 06:05:17.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[04Aug2025 06:05:52.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[04Aug2025 06:05:52.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo moved too quickly! 9.323653996592157,0.17675927506424216,-3.864907626369387
+[04Aug2025 06:06:18.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
+[04Aug2025 06:06:18.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[04Aug2025 06:06:32.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.124.122.56:52713] logged in with entity id 8351 at (446.77024866101834, 79.0, 720.3474579326642)
+[04Aug2025 06:06:32.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[04Aug2025 06:06:32.176] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:06:32.177] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:06:32.177] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:06:32.178] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:06:32.179] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:06:32.179] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:06:32.180] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:06:32.180] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:06:32.181] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:06:32.181] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:06:55.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> diego, necesitas ayuda en algo?
+[04Aug2025 06:07:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> no toy de chill
+[04Aug2025 06:07:13.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ese es el centro
+[04Aug2025 06:07:14.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> donde andan
+[04Aug2025 06:07:24.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> mrd
+[04Aug2025 06:07:24.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> yo ando construyendo cerca de mi gao
+[04Aug2025 06:07:30.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> esta gente en casa de david
+[04Aug2025 06:07:54.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tengo una idea
+[04Aug2025 06:08:29.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! -5.047728503417943,-1.2478510996325411,8.62164051909383
+[04Aug2025 06:09:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y pones lava
+[04Aug2025 06:09:19.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ci
+[04Aug2025 06:09:28.388] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:09:28.389] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[04Aug2025 06:09:28.389] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
