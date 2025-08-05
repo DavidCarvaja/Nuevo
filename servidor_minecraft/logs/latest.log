@@ -296,3 +296,75 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 05:31:16.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo was slain by Zombie
 [05Aug2025 05:31:29.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo was slain by Zombie
 [05Aug2025 05:54:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> zzz
+[05Aug2025 06:10:55.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.169.138.226:47021] logged in with entity id 50032 at (426.8276278761342, 74.0, 553.6480972653817)
+[05Aug2025 06:10:55.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[05Aug2025 06:10:55.048] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ThrownEnderpearl['Thrown Ender Pearl'/50034, l='ServerLevel[world]', x=437.70, y=75.93, z=745.47]
+[05Aug2025 06:10:55.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayer/]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[05Aug2025 06:10:55.077] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:10:55.078] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:10:55.079] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:11:16.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> adivina quien ha vuelto
+[05Aug2025 06:11:39.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> mm eres tu
+[05Aug2025 06:11:57.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no es el primo de la hermana del tio de tu abuela
+[05Aug2025 06:12:07.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> le doy
+[05Aug2025 06:12:35.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> keibel
+[05Aug2025 06:12:41.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> wasap
+[05Aug2025 06:12:45.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tu estasen tu gao
+[05Aug2025 06:12:51.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> si
+[05Aug2025 06:12:58.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a
+[05Aug2025 06:13:04.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> vo a ver tu casa
+[05Aug2025 06:13:07.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 0.23761859242551964,-2.024424088213692,-9.857105642441184
+[05Aug2025 06:13:29.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Voluntary Exile]
+[05Aug2025 06:13:41.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> vale
+[05Aug2025 06:14:04.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> te sirve hacer una raid ahora mismo
+[05Aug2025 06:14:30.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me matan seguro
+[05Aug2025 06:14:49.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q buenas vistas
+[05Aug2025 06:14:59.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> has una pecera
+[05Aug2025 06:15:08.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.130.109.150:48221] logged in with entity id 52131 at (68.92576621997608, 71.0, 594.0114269213369)
+[05Aug2025 06:15:08.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[05Aug2025 06:15:08.768] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:15:08.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> es pa haceer sala de nacantamientos
+[05Aug2025 06:15:13.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ha
+[05Aug2025 06:15:27.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> parece una casa de los hobits
+[05Aug2025 06:15:35.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> pinga al fin
+[05Aug2025 06:15:37.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> discord
+[05Aug2025 06:15:47.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> POR FAVOR
+[05Aug2025 06:16:02.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> tengo las mayus actividadas sin darme cuenta
+[05Aug2025 06:16:19.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mira keibel
+[05Aug2025 06:16:19.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> dale ahora creo eo canal
+[05Aug2025 06:16:26.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> david abres el server dentro de 10 min no
+[05Aug2025 06:16:35.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> agg ahi en discord que lo perdi todo :(
+[05Aug2025 06:16:47.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> si, clavao los 10 minutos
+[05Aug2025 06:16:48.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ese es mi amorcito
+[05Aug2025 06:16:49.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> ahora vengo
+[05Aug2025 06:16:52.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[05Aug2025 06:16:52.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[05Aug2025 06:17:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> david tieenes abeto
+[05Aug2025 06:17:54.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> saben donde hay tronco de secoya?
+[05Aug2025 06:18:46.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> creo q vi al sur de mi casa
+[05Aug2025 06:18:56.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> coñazo
+[05Aug2025 06:18:56.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si
+[05Aug2025 06:18:58.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tengo 2 stacks de tronco de abeto
+[05Aug2025 06:19:02.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> pk pelfec
+[05Aug2025 06:19:17.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> porfa davi compalteme un poquito
+[05Aug2025 06:19:40.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ven
+[05Aug2025 06:19:45.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> voy
+[05Aug2025 06:20:03.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
+[05Aug2025 06:20:03.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[05Aug2025 06:20:18.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.36.47.110:57837] logged in with entity id 54632 at (370.45243471590095, 114.0, 252.3212214263478)
+[05Aug2025 06:20:18.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[05Aug2025 06:20:34.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> ya lo cree
+[05Aug2025 06:21:12.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Cover Me with Diamonds]
+[05Aug2025 06:21:56.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> david mira
+[05Aug2025 06:22:04.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> otia
+[05Aug2025 06:22:18.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> que xd camina
+[05Aug2025 06:22:19.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> con las animaciones se ve lindisimo
+[05Aug2025 06:22:56.110] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:22:56.859] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:23:08.360] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:23:42.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.171.30.69:43923] logged in with entity id 55797 at (7.5, 65.0, -4.5)
+[05Aug2025 06:23:42.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[05Aug2025 06:25:36.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> fabio ven para 364 255
+[05Aug2025 06:26:20.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Asriel_[/127.28.112.240:42931] logged in with entity id 57436 at (9.5, 82.0, -3.5)
+[05Aug2025 06:26:20.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
+[05Aug2025 06:26:33.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> david
