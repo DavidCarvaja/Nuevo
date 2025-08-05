@@ -2170,6 +2170,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-08-05 09:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-05 08:15:40 +0000"
@@ -2473,6 +2479,18 @@
   "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
     "criteria": {
       "has_moss_block": "2025-08-05 08:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-05 09:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-05 09:18:29 +0000"
     },
     "done": true
   },

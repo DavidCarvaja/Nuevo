@@ -926,3 +926,13 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 09:02:12.300] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [05Aug2025 09:02:12.301] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [05Aug2025 09:06:32.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[05Aug2025 09:12:17.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
+[05Aug2025 09:12:17.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[05Aug2025 09:16:11.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:33587] logged in with entity id 186092 at (917.9524873694307, 129.0, 7.165566066551117)
+[05Aug2025 09:16:11.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[05Aug2025 09:16:34.261] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:16:34.261] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:19:23.414] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:19:23.414] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:19:54.065] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:19:54.066] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
