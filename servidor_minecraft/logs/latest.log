@@ -266,3 +266,6 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 04:32:02.110] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@57eaa8[id=5fc8c9a4-383b-332b-b07e-6dd2df639581,name=keibel,properties={}] lost connection: Timed out
 [05Aug2025 04:32:27.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.158.19.5:41945] logged in with entity id 13976 at (359.69999998807907, 114.0, 254.79856556353792)
 [05Aug2025 04:32:27.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[05Aug2025 04:39:12.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> pueden dormir?
+[05Aug2025 04:39:19.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzz
+[05Aug2025 04:44:27.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Take Aim]
