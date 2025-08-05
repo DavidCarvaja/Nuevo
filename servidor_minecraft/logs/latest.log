@@ -269,3 +269,14 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 04:39:12.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> pueden dormir?
 [05Aug2025 04:39:19.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzz
 [05Aug2025 04:44:27.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Take Aim]
+[05Aug2025 04:48:11.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax was kicked for floating too long!
+[05Aug2025 04:48:11.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Flying is not enabled on this server
+[05Aug2025 04:48:11.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[05Aug2025 04:48:41.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.122.78.116:46937] logged in with entity id 22056 at (442.17821252748735, 76.0, 589.2996596622605)
+[05Aug2025 04:48:41.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[05Aug2025 04:48:41.276] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ThrownEnderpearl['Thrown Ender Pearl'/22058, l='ServerLevel[world]', x=437.70, y=75.93, z=745.47]
+[05Aug2025 04:48:41.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayer/]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[05Aug2025 04:48:41.343] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 04:48:41.345] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 04:48:41.345] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 04:52:37.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzz
