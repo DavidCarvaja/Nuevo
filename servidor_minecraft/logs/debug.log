@@ -1688,3 +1688,5 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 03:47:18.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
 [05Aug2025 03:47:18.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
 [05Aug2025 03:49:28.599] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 03:54:28.592] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 03:59:28.593] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
