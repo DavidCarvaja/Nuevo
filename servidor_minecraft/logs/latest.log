@@ -995,3 +995,75 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 09:37:05.308] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [05Aug2025 09:49:20.357] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [05Aug2025 09:49:20.357] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:51:22.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> k
+[05Aug2025 09:51:45.407] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:51:45.407] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:51:50.407] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:51:50.408] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:51:59.807] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:51:59.808] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:56:16.657] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:56:16.657] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:56:17.657] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:56:17.657] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:56:18.609] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:59:31.665] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last destination index 116283 out of bounds for byte[116185]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:152) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:891) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:874) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:868) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:833) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:841) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:721) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last destination index 116283 out of bounds for byte[116185]
+	at java.base/java.lang.System.arraycopy(Native Method) ~[?:?]
+	at TRANSFORMER/camera@1.21.5-1.1.7/de.maxhenkel.camera.net.PacketManager.addBytes(PacketManager.java:38) ~[camera-neoforge-1.21.5-1.1.7.jar%23164!/:1.21.5-1.1.7]
+	at TRANSFORMER/camera@1.21.5-1.1.7/de.maxhenkel.camera.net.MessagePartialImage.executeServerSide(MessagePartialImage.java:44) ~[camera-neoforge-1.21.5-1.1.7.jar%23164!/:1.21.5-1.1.7]
+	at TRANSFORMER/camera@1.21.5-1.1.7/de.maxhenkel.camera.corelib.CommonRegistry.lambda$registerMessage$1(CommonRegistry.java:75) ~[camera-neoforge-1.21.5-1.1.7.jar%23164!/:1.21.5-1.1.7]
+	at TRANSFORMER/neoforge@21.5.87/net.neoforged.neoforge.network.handling.ServerPayloadContext.enqueueWork(ServerPayloadContext.java:32) ~[neoforge-21.5.87-universal.jar%23162!/:?]
+	at TRANSFORMER/camera@1.21.5-1.1.7/de.maxhenkel.camera.corelib.CommonRegistry.lambda$registerMessage$2(CommonRegistry.java:74) ~[camera-neoforge-1.21.5-1.1.7.jar%23164!/:1.21.5-1.1.7]
+	at TRANSFORMER/neoforge@21.5.87/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.5.87-universal.jar%23162!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:63) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 14 more
+[05Aug2025 09:59:31.667] [Server thread/ERROR] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Failed to process a synchronized task of the payload: camera:partial_image
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last destination index 116283 out of bounds for byte[116185]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:152) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:891) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:874) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:868) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:833) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:841) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:721) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last destination index 116283 out of bounds for byte[116185]
+	at java.base/java.lang.System.arraycopy(Native Method) ~[?:?]
+	at TRANSFORMER/camera@1.21.5-1.1.7/de.maxhenkel.camera.net.PacketManager.addBytes(PacketManager.java:38) ~[camera-neoforge-1.21.5-1.1.7.jar%23164!/:1.21.5-1.1.7]
+	at TRANSFORMER/camera@1.21.5-1.1.7/de.maxhenkel.camera.net.MessagePartialImage.executeServerSide(MessagePartialImage.java:44) ~[camera-neoforge-1.21.5-1.1.7.jar%23164!/:1.21.5-1.1.7]
+	at TRANSFORMER/camera@1.21.5-1.1.7/de.maxhenkel.camera.corelib.CommonRegistry.lambda$registerMessage$1(CommonRegistry.java:75) ~[camera-neoforge-1.21.5-1.1.7.jar%23164!/:1.21.5-1.1.7]
+	at TRANSFORMER/neoforge@21.5.87/net.neoforged.neoforge.network.handling.ServerPayloadContext.enqueueWork(ServerPayloadContext.java:32) ~[neoforge-21.5.87-universal.jar%23162!/:?]
+	at TRANSFORMER/camera@1.21.5-1.1.7/de.maxhenkel.camera.corelib.CommonRegistry.lambda$registerMessage$2(CommonRegistry.java:74) ~[camera-neoforge-1.21.5-1.1.7.jar%23164!/:1.21.5-1.1.7]
+	at TRANSFORMER/neoforge@21.5.87/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.5.87-universal.jar%23162!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:63) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 14 more
