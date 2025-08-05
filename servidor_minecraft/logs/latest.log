@@ -904,3 +904,25 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 08:49:46.716] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [05Aug2025 08:49:46.716] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [05Aug2025 08:49:46.717] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:01:34.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> ZZZZ
+[05Aug2025 09:01:50.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:51.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:51.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:51.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:51.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:52.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:52.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:52.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:52.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:52.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:53.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:53.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:53.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Z
+[05Aug2025 09:01:53.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Kicked for spamming
+[05Aug2025 09:01:53.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[05Aug2025 09:02:12.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.72.98.158:45787] logged in with entity id 179192 at (468.5, 72.0, 576.5)
+[05Aug2025 09:02:12.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[05Aug2025 09:02:12.299] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:02:12.300] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:02:12.301] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 09:06:32.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
