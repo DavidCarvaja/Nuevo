@@ -280,3 +280,13 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 04:48:41.345] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [05Aug2025 04:48:41.345] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [05Aug2025 04:52:37.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzz
+[05Aug2025 04:56:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hasta aqui llegue se me acabo la bateria
+[05Aug2025 04:56:43.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> estan de apagon?
+[05Aug2025 04:56:44.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> ggs
+[05Aug2025 04:56:47.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si
+[05Aug2025 04:56:56.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> pinga que asco
+[05Aug2025 04:56:56.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hasta orita
+[05Aug2025 04:57:05.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
+[05Aug2025 04:57:05.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[05Aug2025 05:04:40.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzzz
+[05Aug2025 05:04:43.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> bb
