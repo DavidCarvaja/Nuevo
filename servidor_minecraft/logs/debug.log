@@ -1893,3 +1893,149 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 06:26:20.376] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [crafting, smelting, stonecutting, smoking, campfire_cooking, blasting, smithing]
 [05Aug2025 06:26:20.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
 [05Aug2025 06:26:33.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> david
+[05Aug2025 06:26:35.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> explicame
+[05Aug2025 06:26:40.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> por que no tengo nada en mi
+[05Aug2025 06:26:44.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> inventario
+[05Aug2025 06:26:45.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tienes que entrar con tu otra cuenta
+[05Aug2025 06:26:50.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> manda cachucha
+[05Aug2025 06:26:55.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Disconnected
+[05Aug2025 06:26:55.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[05Aug2025 06:26:55.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> esa es como si fuera una nueva
+[05Aug2025 06:26:58.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> se va
+[05Aug2025 06:28:15.273] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1d0f4b55 into net.minecraft.network.Connection@29f321a0
+[05Aug2025 06:28:18.439] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1f24a1ca into net.minecraft.network.Connection@29f321a0
+[05Aug2025 06:28:18.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.71.192.180:32777] logged in with entity id 58702 at (434.16713484614, 69.0, 629.980061887287)
+[05Aug2025 06:28:18.531] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [crafting, smelting, stonecutting, smoking, campfire_cooking, blasting, smithing]
+[05Aug2025 06:28:18.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[05Aug2025 06:28:18.560] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:28:18.560] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:28:18.560] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:28:18.560] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:28:18.560] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:28:18.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:28:18.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:28:18.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:28:18.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:28:18.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:28:24.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> jijijij
+[05Aug2025 06:29:17.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
+[05Aug2025 06:29:17.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[05Aug2025 06:29:28.646] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 06:30:24.339] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@215e00f2 into net.minecraft.network.Connection@278cedfa
+[05Aug2025 06:30:27.477] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@38b40559 into net.minecraft.network.Connection@278cedfa
+[05Aug2025 06:30:27.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Asriel_[/127.28.112.240:55355] logged in with entity id 60060 at (10.438776904266955, 82.0, 2.350000784270609)
+[05Aug2025 06:30:27.486] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [crafting, smelting, stonecutting, smoking, campfire_cooking, blasting, smithing]
+[05Aug2025 06:30:27.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
+[05Aug2025 06:30:32.088] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1eac4a3e into net.minecraft.network.Connection@57f8bde4
+[05Aug2025 06:30:33.473] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@59853d99 into net.minecraft.network.Connection@57f8bde4
+[05Aug2025 06:30:33.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:48483] logged in with entity id 60183 at (908.8254481516008, 139.0, 24.934719912030978)
+[05Aug2025 06:30:33.487] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [crafting, smelting, stonecutting, smoking, campfire_cooking, blasting, smithing]
+[05Aug2025 06:30:33.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[05Aug2025 06:30:54.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> cojone que esta to el mundo
+[05Aug2025 06:31:05.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> momento legendario
+[05Aug2025 06:31:44.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> asere tengo 5 barritasw yo?
+[05Aug2025 06:31:55.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> a no
+[05Aug2025 06:31:55.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> 4
+[05Aug2025 06:32:03.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> close enough
+[05Aug2025 06:33:46.833] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:33:57.771] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:34:28.651] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 06:35:39.075] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.076] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.076] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.077] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.077] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.077] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.077] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.128] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.129] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.129] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.129] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.129] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.129] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.129] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.875] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.875] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.875] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:39.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [Stone Age]
+[05Aug2025 06:35:40.026] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:40.026] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:40.026] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:35:40.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has completed the challenge [Cover Me in Debris]
+[05Aug2025 06:35:51.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> pinga todos los logros
+[05Aug2025 06:35:58.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> speedrun
+[05Aug2025 06:36:05.321] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:05.321] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:05.321] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:05.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> vamo suave
+[05Aug2025 06:36:07.722] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:07.722] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:07.722] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:07.722] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:07.722] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:07.723] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:07.723] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:09.123] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:09.123] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:09.123] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:36:11.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> relajadito
+[05Aug2025 06:36:50.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> eduardo
+[05Aug2025 06:36:52.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> dame cristal
+[05Aug2025 06:36:55.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ven
+[05Aug2025 06:37:03.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> y comida
+[05Aug2025 06:37:18.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> david dame papa
+[05Aug2025 06:37:49.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> aqui abajo hijo mio
+[05Aug2025 06:37:56.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> bendecidme con vuestro alimento
+[05Aug2025 06:38:01.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> davidddd
+[05Aug2025 06:38:05.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> y vuestro cristal
+[05Aug2025 06:38:24.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> coge esa mielda q yo no tengo la mejora del horno
+[05Aug2025 06:38:30.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> gracias por la papa hijo mio
+[05Aug2025 06:38:57.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ven
+[05Aug2025 06:39:28.661] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 06:39:34.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers has made the advancement [Stone Age]
+[05Aug2025 06:39:46.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [Monster Hunter]
+[05Aug2025 06:39:53.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> paren a fabio que va muy rápido
+[05Aug2025 06:41:10.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> que fabio es x cierto
+[05Aug2025 06:41:11.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[05Aug2025 06:41:11.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[05Aug2025 06:41:19.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> tabiogamers
+[05Aug2025 06:41:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ah
+[05Aug2025 06:41:30.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> si pero que fabio
+[05Aug2025 06:41:34.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> es el que te pasó los huevos por los labios
+[05Aug2025 06:41:42.790] [Netty Epoll Server IO #7/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@458a320d into net.minecraft.network.Connection@45f34347
+[05Aug2025 06:41:43.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> XD
+[05Aug2025 06:41:44.671] [Netty Epoll Server IO #7/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@7d5d645 into net.minecraft.network.Connection@45f34347
+[05Aug2025 06:41:44.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.130.109.150:59989] logged in with entity id 68728 at (116.79813982585681, 77.0, 633.3000000119209)
+[05Aug2025 06:41:44.688] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [crafting, smelting, stonecutting, smoking, campfire_cooking, blasting, smithing]
+[05Aug2025 06:41:44.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[05Aug2025 06:41:44.738] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:41:54.977] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:41:54.977] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:41:54.978] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:42:01.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Disconnected
+[05Aug2025 06:42:01.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[05Aug2025 06:42:09.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers has made the advancement [Getting an Upgrade]
+[05Aug2025 06:42:12.235] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@3f89cf0c into net.minecraft.network.Connection@7e53f946
+[05Aug2025 06:42:14.470] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@269ffe54 into net.minecraft.network.Connection@7e53f946
+[05Aug2025 06:42:14.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Asriel_[/127.204.189.247:46939] logged in with entity id 69247 at (444.81294444266723, 72.0, 851.3405676777189)
+[05Aug2025 06:42:14.479] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [crafting, smelting, stonecutting, smoking, campfire_cooking, blasting, smithing]
+[05Aug2025 06:42:14.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
+[05Aug2025 06:42:14.537] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:42:14.537] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:42:14.538] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:42:14.538] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:42:14.538] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:42:14.538] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:42:14.538] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:42:14.538] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:42:14.539] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:42:14.539] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 06:43:19.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers has made the advancement [Acquire Hardware]
+[05Aug2025 06:44:28.679] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 06:45:57.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> edualdo
+[05Aug2025 06:45:57.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
+[05Aug2025 06:45:57.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[05Aug2025 06:45:59.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ma crital
+[05Aug2025 06:46:07.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> te doy la arena
+[05Aug2025 06:46:10.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> oki
+[05Aug2025 06:46:17.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> pinga pero en el gao no hay carbon

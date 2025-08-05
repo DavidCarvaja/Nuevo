@@ -844,6 +844,7 @@
       "minecraft:skeleton": "2025-08-03 17:11:34 +0000",
       "minecraft:vindicator": "2025-08-03 19:35:33 +0000",
       "minecraft:enderman": "2025-08-03 17:19:18 +0000",
+      "minecraft:silverfish": "2025-08-05 06:43:43 +0000",
       "minecraft:witch": "2025-08-03 19:39:07 +0000",
       "minecraft:spider": "2025-08-03 18:07:35 +0000",
       "minecraft:zombie": "2025-08-03 17:13:29 +0000",
@@ -2557,6 +2558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-05 04:45:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-08-05 05:40:10 +0000"
@@ -2566,12 +2573,6 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-08-05 05:40:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-08-05 04:45:27 +0000"
     },
     "done": true
   },
