@@ -1784,3 +1784,5 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 05:04:28.600] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [05Aug2025 05:04:40.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzzz
 [05Aug2025 05:04:43.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> bb
+[05Aug2025 05:09:28.598] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 05:14:28.599] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
