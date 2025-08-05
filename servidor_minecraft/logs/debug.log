@@ -1690,3 +1690,64 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 03:49:28.599] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [05Aug2025 03:54:28.592] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [05Aug2025 03:59:28.593] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 04:04:28.600] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 04:07:47.976] [Netty Epoll Server IO #7/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@64085030 into net.minecraft.network.Connection@1380e701
+[05Aug2025 04:07:50.317] [Netty Epoll Server IO #7/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@45c43772 into net.minecraft.network.Connection@1380e701
+[05Aug2025 04:07:50.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.47.147.21:33857] logged in with entity id 6288 at (370.1062117454365, 114.0, 248.19613394833252)
+[05Aug2025 04:07:50.357] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [crafting, smelting, stonecutting, smoking, campfire_cooking, blasting, smithing]
+[05Aug2025 04:07:50.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[05Aug2025 04:08:00.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> keibel tu tienes luz?
+[05Aug2025 04:08:06.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> si
+[05Aug2025 04:08:12.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ñio
+[05Aug2025 04:08:17.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> yo no tengo
+[05Aug2025 04:08:40.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> es que ami me la quitarn hoy 3 veces
+[05Aug2025 04:08:48.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> cojone
+[05Aug2025 04:09:13.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> llegate a donde estoy para darte un par de diamaantes
+[05Aug2025 04:09:28.617] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 04:09:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> dime coords
+[05Aug2025 04:09:39.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mira el minimapa
+[05Aug2025 04:09:44.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> es mas facil
+[05Aug2025 04:09:55.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> voy
+[05Aug2025 04:10:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> donde se abria el mapa
+[05Aug2025 04:10:49.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> la j
+[05Aug2025 04:13:28.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> este es mi humilde gao
+[05Aug2025 04:13:34.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> te la mamo
+[05Aug2025 04:13:43.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> ta chiquita la casa
+[05Aug2025 04:13:58.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> la iba a hacer mas grande
+[05Aug2025 04:14:11.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> ta dura
+[05Aug2025 04:14:22.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> grax
+[05Aug2025 04:14:28.602] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 04:16:57.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> duerme
+[05Aug2025 04:19:28.601] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 04:24:28.605] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 04:28:25.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzzz
+[05Aug2025 04:29:21.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Timed out
+[05Aug2025 04:29:21.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[05Aug2025 04:29:28.592] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 04:29:41.105] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@2fd6ac13 into net.minecraft.network.Connection@3d7c4b7a
+[05Aug2025 04:29:45.395] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@757616a7 into net.minecraft.network.Connection@3d7c4b7a
+[05Aug2025 04:29:45.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.47.147.21:49377] logged in with entity id 13000 at (359.69999998807907, 114.0, 254.79856556353792)
+[05Aug2025 04:29:45.428] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [crafting, smelting, stonecutting, smoking, campfire_cooking, blasting, smithing]
+[05Aug2025 04:29:45.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[05Aug2025 04:30:07.425] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@730a2768 into net.minecraft.network.Connection@2482c764
+[05Aug2025 04:30:09.534] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@7bfe4883 into net.minecraft.network.Connection@2482c764
+[05Aug2025 04:30:09.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:44151] logged in with entity id 13240 at (1346.300000011921, 118.0, 84.75318716986804)
+[05Aug2025 04:30:09.624] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [crafting, smelting, stonecutting, smoking, campfire_cooking, blasting, smithing]
+[05Aug2025 04:30:09.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[05Aug2025 04:30:15.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Timed out
+[05Aug2025 04:30:15.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[05Aug2025 04:30:15.558] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Aug2025 04:30:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> uno viene y el otro se va
+[05Aug2025 04:30:51.791] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@62df53f1 into net.minecraft.network.Connection@4da27a89
+[05Aug2025 04:31:11.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> bruhh keibel no iba a jugar?
+[05Aug2025 04:31:21.664] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@1071d897[id=5fc8c9a4-383b-332b-b07e-6dd2df639581,name=keibel,properties={}] lost connection: Timed out
+[05Aug2025 04:31:32.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si pero parece q la conexion le pasa factura
+[05Aug2025 04:31:36.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> o noc
+[05Aug2025 04:31:37.026] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@b993eff into net.minecraft.network.Connection@2cc9c304
+[05Aug2025 04:32:02.110] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@57eaa8[id=5fc8c9a4-383b-332b-b07e-6dd2df639581,name=keibel,properties={}] lost connection: Timed out
+[05Aug2025 04:32:25.110] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@46a72737 into net.minecraft.network.Connection@aef25e2
+[05Aug2025 04:32:27.466] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@6769e54e into net.minecraft.network.Connection@aef25e2
+[05Aug2025 04:32:27.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.158.19.5:41945] logged in with entity id 13976 at (359.69999998807907, 114.0, 254.79856556353792)
+[05Aug2025 04:32:27.483] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [crafting, smelting, stonecutting, smoking, campfire_cooking, blasting, smithing]
+[05Aug2025 04:32:27.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[05Aug2025 04:34:28.626] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
