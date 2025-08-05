@@ -1677,3 +1677,14 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [05Aug2025 03:43:02.810] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [crafting, smelting, stonecutting, smoking, campfire_cooking, blasting, smithing]
 [05Aug2025 03:43:02.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
 [05Aug2025 03:43:02.915] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[05Aug2025 03:44:08.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 0.8628378006754218,0.0,-10.270748928704506
+[05Aug2025 03:44:19.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> davi duelme
+[05Aug2025 03:44:28.630] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Aug2025 03:44:38.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> grax
+[05Aug2025 03:46:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> oye, tienes bambu?
+[05Aug2025 03:46:40.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> nop
+[05Aug2025 03:46:48.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> :(
+[05Aug2025 03:46:59.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no he encontrado una jungla
+[05Aug2025 03:47:18.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[05Aug2025 03:47:18.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[05Aug2025 03:49:28.599] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
