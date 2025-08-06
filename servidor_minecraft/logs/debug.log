@@ -1701,3 +1701,21 @@ java.lang.IndexOutOfBoundsException: Index -4 out of bounds for length 6
 [06Aug2025 04:25:52.981] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [06Aug2025 04:26:04.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ya matamos al dragon 7 veces
 [06Aug2025 04:26:08.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> te demoraste mucho
+[06Aug2025 04:26:18.778] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 04:26:20.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> er hueso
+[06Aug2025 04:26:21.830] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 04:26:23.328] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 04:26:27.975] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 04:26:27.975] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 04:26:27.975] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 04:26:27.976] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 04:26:39.627] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 04:26:39.629] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 04:26:39.629] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 04:26:41.458] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 04:27:05.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> zzzz
+[06Aug2025 04:27:09.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzz
+[06Aug2025 04:27:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzz
+[06Aug2025 04:27:15.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzzz
+[06Aug2025 04:29:57.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> eduardo dejanos un poco de conexion
+[06Aug2025 04:31:41.427] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
