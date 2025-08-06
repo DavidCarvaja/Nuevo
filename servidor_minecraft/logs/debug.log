@@ -2523,3 +2523,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [06Aug2025 08:27:12.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=481, y=61, z=595} BlockPos{x=481, y=62, z=595}
 [06Aug2025 08:30:09.025] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [06Aug2025 08:30:11.773] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:31:28.823] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:31:28.823] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:31:50.975] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 08:32:37.474] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:32:37.474] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:35:44.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 fell from a high place
+[06Aug2025 08:36:50.985] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 08:41:50.980] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 08:42:12.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> david abre el server
+[06Aug2025 08:42:43.524] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:42:48.276] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:44:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya mne voy
+[06Aug2025 08:44:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> les dejo el server unas horas mas
+[06Aug2025 08:46:28.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[06Aug2025 08:46:28.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[06Aug2025 08:46:31.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
+[06Aug2025 08:46:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
+[06Aug2025 08:46:50.958] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
