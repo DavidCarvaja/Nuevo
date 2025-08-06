@@ -434,3 +434,41 @@ java.lang.IndexOutOfBoundsException: Index -4 out of bounds for length 6
 [06Aug2025 05:26:09.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> dame lo mio
 [06Aug2025 05:26:24.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> arregla el casco le falta poco
 [06Aug2025 05:26:31.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> nah
+[06Aug2025 05:29:34.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> david metele el mod de stands al server, armando me dijo que quiere que metas ese mod
+[06Aug2025 05:29:51.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> e velda
+[06Aug2025 05:29:55.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> viste david
+[06Aug2025 05:29:56.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> el me dijo que quiere que yo te meya el webo
+[06Aug2025 05:30:09.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> vas a meter el mod de los stands si me dejo?
+[06Aug2025 05:30:17.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> meta*
+[06Aug2025 05:30:39.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved wrongly!
+[06Aug2025 05:30:39.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> vaya puta mierda de granja
+[06Aug2025 05:31:14.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was slain by Enderman
+[06Aug2025 05:31:33.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> arnaldo llegando a las pijamadas
+[06Aug2025 05:31:33.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> perfe
+[06Aug2025 05:31:40.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> jijijiji
+[06Aug2025 05:32:23.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q haces ariel
+[06Aug2025 05:32:49.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> investigando
+[06Aug2025 05:33:00.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[06Aug2025 05:33:00.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[06Aug2025 05:33:16.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> keibel linda casa
+[06Aug2025 05:33:21.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.16.122.42:52513] logged in with entity id 48369 at (364.44653955289465, 114.5, 262.3463695661446)
+[06Aug2025 05:33:21.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[06Aug2025 05:33:21.477] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:33:21.478] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:33:21.479] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:33:21.479] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:33:21.480] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:33:43.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> acere ando con 46 mb/s y aun asi me saca del server
+[06Aug2025 05:33:43.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> keibel
+[06Aug2025 05:33:52.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> diem
+[06Aug2025 05:33:57.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ven a tu casa
+[06Aug2025 05:33:59.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> un momento
+[06Aug2025 05:34:01.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> jijij
+[06Aug2025 05:34:10.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> banenlo
+[06Aug2025 05:34:22.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> puta meirda esa granja de caña
+[06Aug2025 05:37:10.235] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:37:10.235] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:37:10.235] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:37:10.236] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:37:10.236] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:37:10.236] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
