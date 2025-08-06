@@ -919,3 +919,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [06Aug2025 07:56:33.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> igualmente
 [06Aug2025 07:57:18.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Timed out
 [06Aug2025 07:57:18.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[06Aug2025 08:03:13.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Cover Me with Diamonds]
+[06Aug2025 08:07:25.328] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:08:10.727] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:08:26.827] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'

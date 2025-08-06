@@ -3008,5 +3008,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_the_recipe": "2025-08-06 08:06:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
