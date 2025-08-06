@@ -2541,3 +2541,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [06Aug2025 08:46:31.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
 [06Aug2025 08:46:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
 [06Aug2025 08:46:50.958] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 08:51:50.961] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 08:55:17.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 1.1955335463420624,1.1661092609382138,9.965698361411796
+[06Aug2025 08:55:21.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax was kicked for floating too long!
+[06Aug2025 08:55:21.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Flying is not enabled on this server
+[06Aug2025 08:55:21.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[06Aug2025 08:55:38.140] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@4da4395 into net.minecraft.network.Connection@6d4b70e6
+[06Aug2025 08:55:39.924] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@7bed0084 into net.minecraft.network.Connection@6d4b70e6
+[06Aug2025 08:55:39.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.16.122.42:50403] logged in with entity id 199046 at (422.9175089910812, 64.00133597911214, 596.4315184151072)
+[06Aug2025 08:55:39.955] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, smithing, campfire_cooking, smelting, stonecutting, blasting, crafting]
+[06Aug2025 08:55:39.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[06Aug2025 08:55:39.982] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:55:39.983] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:55:39.983] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:55:39.983] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:55:39.983] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:56:50.955] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
