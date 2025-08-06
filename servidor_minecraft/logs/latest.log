@@ -935,3 +935,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [06Aug2025 08:19:53.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> zzzzz
 [06Aug2025 08:20:12.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 [06Aug2025 08:20:16.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> keibel vv
+[06Aug2025 08:24:40.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 3.2640922693050243,-1.0013359791121417,9.516211808755656
+[06Aug2025 08:24:44.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> alguna zorra de este server tiene calcita
+[06Aug2025 08:24:53.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[06Aug2025 08:24:53.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[06Aug2025 08:25:20.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[06Aug2025 08:25:20.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[06Aug2025 08:25:44.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.16.122.42:42067] logged in with entity id 187231 at (498.13028620598163, 63.0, 567.9298218730769)
+[06Aug2025 08:25:44.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[06Aug2025 08:25:44.737] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:25:44.738] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:25:44.738] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:25:44.738] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:25:44.739] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:27:12.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=481, y=61, z=595} BlockPos{x=481, y=62, z=595}
+[06Aug2025 08:30:09.025] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 08:30:11.773] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
