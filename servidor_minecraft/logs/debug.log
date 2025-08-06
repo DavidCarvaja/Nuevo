@@ -2360,3 +2360,38 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [06Aug2025 07:17:59.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
 [06Aug2025 07:18:13.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> :)
 [06Aug2025 07:18:32.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> upsi
+[06Aug2025 07:19:06.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> muevete cojone
+[06Aug2025 07:20:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> usa el tp
+[06Aug2025 07:20:25.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> me encargarñe yo mismo
+[06Aug2025 07:20:27.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ugu
+[06Aug2025 07:20:31.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> duelveme pal goa
+[06Aug2025 07:20:36.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> eduardo
+[06Aug2025 07:20:54.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> que perra pinga
+[06Aug2025 07:20:59.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> el pvp se murio en la 1.8
+[06Aug2025 07:21:04.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> lit
+[06Aug2025 07:21:09.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> eduardo devuelveme pal gao
+[06Aug2025 07:21:18.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> por cierto
+[06Aug2025 07:21:24.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tu netherita me la pelo
+[06Aug2025 07:21:32.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ariel+
+[06Aug2025 07:21:43.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no tienes enderpear
+[06Aug2025 07:21:47.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> bueno
+[06Aug2025 07:21:51.018] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 07:21:51.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a pata
+[06Aug2025 07:22:02.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> estoy cerca
+[06Aug2025 07:22:09.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> deja eso asi
+[06Aug2025 07:22:14.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> sorpresita para armando
+[06Aug2025 07:22:18.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> dale
+[06Aug2025 07:22:48.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[06Aug2025 07:22:48.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[06Aug2025 07:23:06.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego metete al discord
+[06Aug2025 07:23:11.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> voa
+[06Aug2025 07:23:37.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
+[06Aug2025 07:23:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[06Aug2025 07:24:09.587] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@56cf3eae into net.minecraft.network.Connection@79304031
+[06Aug2025 07:24:10.284] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@35be611e into net.minecraft.network.Connection@79304031
+[06Aug2025 07:24:10.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MandyXMaster687[/127.84.190.91:46715] logged in with entity id 147603 at (204.3254179420342, 28.0, 483.6763474353069)
+[06Aug2025 07:24:10.294] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, smithing, campfire_cooking, smelting, stonecutting, blasting, crafting]
+[06Aug2025 07:24:10.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 joined the game
+[06Aug2025 07:25:29.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 fell from a high place
+[06Aug2025 07:26:51.013] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 07:27:47.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=435, y=64, z=621} BlockPos{x=433, y=62, z=620}
