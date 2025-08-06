@@ -850,3 +850,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [06Aug2025 07:24:10.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 joined the game
 [06Aug2025 07:25:29.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 fell from a high place
 [06Aug2025 07:27:47.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=435, y=64, z=621} BlockPos{x=433, y=62, z=620}
+[06Aug2025 07:34:08.331] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 07:34:10.433] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'

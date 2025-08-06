@@ -242,6 +242,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-08-06 05:51:31 +0000",
       "minecraft:skeleton": "2025-08-06 05:28:32 +0000",
+      "minecraft:enderman": "2025-08-06 07:35:18 +0000",
       "minecraft:spider": "2025-08-06 05:21:22 +0000",
       "minecraft:zombie": "2025-08-06 05:46:36 +0000",
       "minecraft:creeper": "2025-08-06 05:28:41 +0000"
@@ -1443,6 +1444,18 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-06 07:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-06 07:33:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-06 07:33:49 +0000"
     },
     "done": true
   },
