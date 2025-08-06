@@ -891,6 +891,7 @@
       "bread": "2025-08-03 04:43:57 +0000",
       "cooked_chicken": "2025-08-03 04:34:30 +0000",
       "rotten_flesh": "2025-08-03 04:30:12 +0000",
+      "enchanted_golden_apple": "2025-08-06 04:18:23 +0000",
       "cooked_mutton": "2025-08-03 04:27:39 +0000",
       "sweet_berries": "2025-08-03 05:09:43 +0000",
       "cooked_beef": "2025-08-03 05:31:21 +0000",
@@ -917,6 +918,7 @@
       "minecraft:zombie": "2025-08-03 04:24:58 +0000",
       "minecraft:creeper": "2025-08-03 05:11:36 +0000",
       "minecraft:drowned": "2025-08-04 07:05:21 +0000",
+      "minecraft:zombie_villager": "2025-08-05 10:12:58 +0000",
       "minecraft:slime": "2025-08-03 10:01:46 +0000"
     },
     "done": false
@@ -4430,6 +4432,18 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-08-05 10:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-05 10:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-06 04:18:19 +0000"
     },
     "done": true
   },

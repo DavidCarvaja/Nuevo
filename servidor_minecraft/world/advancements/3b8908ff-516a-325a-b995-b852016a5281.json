@@ -2070,9 +2070,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "slept_in_bed": "2025-08-05 08:01:25 +0000"
+      "has_iron_nugget": "2025-08-05 07:57:39 +0000"
     },
     "done": true
   },
@@ -2082,9 +2082,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_iron_nugget": "2025-08-05 07:57:39 +0000"
+      "slept_in_bed": "2025-08-05 08:01:25 +0000"
     },
     "done": true
   },
