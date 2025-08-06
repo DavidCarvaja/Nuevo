@@ -2557,3 +2557,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [06Aug2025 08:55:39.983] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [06Aug2025 08:55:39.983] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [06Aug2025 08:56:50.955] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 09:01:50.956] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 09:06:50.957] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 09:08:27.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[06Aug2025 09:09:22.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
