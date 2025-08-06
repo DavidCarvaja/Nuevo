@@ -14,6 +14,7 @@
       "seasonal_forest": "2025-08-03 17:11:11 +0000",
       "highland": "2025-08-03 18:43:11 +0000",
       "maple_woods": "2025-08-03 16:48:03 +0000",
+      "old_growth_dead_forest": "2025-08-06 07:11:38 +0000",
       "pumpkin_patch": "2025-08-03 16:48:08 +0000",
       "snowy_coniferous_forest": "2025-08-03 18:51:39 +0000",
       "ominous_woods": "2025-08-03 16:46:49 +0000"
@@ -840,12 +841,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-03 19:32:00 +0000",
-      "minecraft:cave_spider": "2025-08-05 05:22:22 +0000",
       "minecraft:skeleton": "2025-08-03 17:11:34 +0000",
+      "minecraft:phantom": "2025-08-06 06:06:08 +0000",
+      "minecraft:witch": "2025-08-03 19:39:07 +0000",
+      "minecraft:cave_spider": "2025-08-05 05:22:22 +0000",
       "minecraft:vindicator": "2025-08-03 19:35:33 +0000",
       "minecraft:enderman": "2025-08-03 17:19:18 +0000",
       "minecraft:silverfish": "2025-08-05 06:43:43 +0000",
-      "minecraft:witch": "2025-08-03 19:39:07 +0000",
       "minecraft:spider": "2025-08-03 18:07:35 +0000",
       "minecraft:zombie": "2025-08-03 17:13:29 +0000",
       "minecraft:creeper": "2025-08-03 17:14:15 +0000",
@@ -875,6 +877,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-03 18:38:30 +0000",
+      "bread": "2025-08-06 05:53:00 +0000",
       "cooked_chicken": "2025-08-03 17:14:40 +0000",
       "rotten_flesh": "2025-08-03 17:13:37 +0000",
       "cooked_mutton": "2025-08-03 18:05:27 +0000",
@@ -3029,6 +3032,42 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-08-06 05:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-06 06:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-08-06 06:00:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-06 06:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-06 06:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-06 06:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-06 06:29:46 +0000"
     },
     "done": true
   },

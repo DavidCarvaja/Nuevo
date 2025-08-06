@@ -10,12 +10,14 @@
       "hot_springs": "2025-08-04 00:30:31 +0000",
       "spider_nest": "2025-08-03 07:28:24 +0000",
       "forested_field": "2025-08-04 00:25:08 +0000",
+      "muskeg": "2025-08-06 07:02:34 +0000",
       "woodland": "2025-08-04 00:27:53 +0000",
       "snowblossom_grove": "2025-08-03 06:15:15 +0000",
       "maple_woods": "2025-08-03 04:06:28 +0000",
       "rocky_shrubland": "2025-08-04 00:30:06 +0000",
       "pumpkin_patch": "2025-08-03 04:29:22 +0000",
       "snowy_coniferous_forest": "2025-08-03 05:49:21 +0000",
+      "snowy_fir_clearing": "2025-08-06 06:51:28 +0000",
       "glowing_grotto": "2025-08-04 00:23:17 +0000",
       "field": "2025-08-02 21:32:26 +0000",
       "seasonal_forest": "2025-08-03 04:23:17 +0000",
@@ -284,7 +286,9 @@
       "minecraft:frozen_river": "2025-08-03 06:09:32 +0000",
       "minecraft:river": "2025-08-03 04:05:34 +0000",
       "minecraft:swamp": "2025-08-04 07:32:15 +0000",
-      "minecraft:snowy_taiga": "2025-08-03 06:10:30 +0000"
+      "minecraft:snowy_plains": "2025-08-06 07:01:46 +0000",
+      "minecraft:snowy_taiga": "2025-08-03 06:10:30 +0000",
+      "minecraft:snowy_beach": "2025-08-06 07:00:06 +0000"
     },
     "done": false
   },
@@ -376,6 +380,7 @@
       "golden_carrot": "2025-08-03 08:59:23 +0000",
       "apple": "2025-08-03 06:21:21 +0000",
       "cooked_chicken": "2025-08-03 06:00:15 +0000",
+      "potato": "2025-08-06 07:13:13 +0000",
       "cooked_salmon": "2025-08-03 06:35:40 +0000"
     },
     "done": false
@@ -670,6 +675,7 @@
       "minecraft:breeze": "2025-08-03 08:37:05 +0000",
       "minecraft:enderman": "2025-08-03 05:37:27 +0000",
       "minecraft:silverfish": "2025-08-03 08:50:26 +0000",
+      "minecraft:stray": "2025-08-06 07:01:55 +0000",
       "minecraft:witch": "2025-08-05 08:06:58 +0000",
       "minecraft:spider": "2025-08-03 04:28:29 +0000",
       "minecraft:zombie": "2025-08-03 04:17:51 +0000",
@@ -3135,6 +3141,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-04 07:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_wildflowers": {
+    "criteria": {
+      "has_purple_wildflowers": "2025-08-06 06:25:51 +0000"
     },
     "done": true
   },

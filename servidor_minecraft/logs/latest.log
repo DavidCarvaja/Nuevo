@@ -472,3 +472,351 @@ java.lang.IndexOutOfBoundsException: Index -4 out of bounds for length 6
 [06Aug2025 05:37:10.236] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [06Aug2025 05:37:10.236] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [06Aug2025 05:37:10.236] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:37:57.542] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:38:03.001] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:38:56.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Disconnected
+[06Aug2025 05:38:56.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[06Aug2025 05:38:56.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.133.243.187:42373] logged in with entity id 52778 at (545.0561072741727, 80.0, 376.3710998657454)
+[06Aug2025 05:38:56.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[06Aug2025 05:39:34.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Asriel_[/127.153.26.68:35749] logged in with entity id 53495 at (441.2309421119714, 83.0, 727.3913663310441)
+[06Aug2025 05:39:34.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
+[06Aug2025 05:39:34.157] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:39:34.157] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:39:34.157] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:39:34.157] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:39:34.157] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:39:34.158] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:39:34.158] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:39:34.158] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:40:38.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> keibel responde discord
+[06Aug2025 05:40:51.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> tenkiu
+[06Aug2025 05:41:16.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers has made the advancement [Isn't It Iron Pick]
+[06Aug2025 05:41:50.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> cogelo
+[06Aug2025 05:41:56.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> bueno
+[06Aug2025 05:42:01.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> hala
+[06Aug2025 05:42:01.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tengo otro
+[06Aug2025 05:44:49.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Timed out
+[06Aug2025 05:44:49.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[06Aug2025 05:54:41.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
+[06Aug2025 05:54:41.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[06Aug2025 05:56:31.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -8.356501399770764,-1.6815583980583142,-5.350999499599766
+[06Aug2025 05:56:31.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers moved too quickly! -5.258634939255785,-0.9769118908984495,8.51438614271882
+[06Aug2025 05:56:54.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:47835] logged in with entity id 69651 at (907.9652188608798, 139.0, -11.471027000186071)
+[06Aug2025 05:56:54.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[06Aug2025 05:56:54.147] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:56:54.147] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:56:54.147] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:56:57.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tengo una bocina en la mochila
+[06Aug2025 05:57:01.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers moved too quickly! -9.940594406485275,-0.2277792520400368,-1.7706962945192117
+[06Aug2025 05:57:01.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -0.6413377521156463,2.1661092609382138,-10.067353340411955
+[06Aug2025 05:57:01.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[06Aug2025 05:57:01.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> otia
+[06Aug2025 05:57:09.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> es repa
+[06Aug2025 05:57:16.091] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:57:23.948] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:57:28.439] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 05:58:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si me muero recuerdame
+[06Aug2025 05:58:12.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> dale
+[06Aug2025 05:58:25.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q tanque soy
+[06Aug2025 05:58:26.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> eeeeepaaaaa
+[06Aug2025 05:58:43.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -5.982187389058822,0.023088109101550458,-8.21652649007683
+[06Aug2025 05:58:43.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers moved too quickly! 8.840704296895467,2.024424088213692,-4.363674634481413
+[06Aug2025 05:58:43.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 10.079976898068537,-0.2336320060424839,1.1347230583639885
+[06Aug2025 05:58:43.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[06Aug2025 05:58:53.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -8.069507178220306,-0.7012968536522237,-5.915056932388779
+[06Aug2025 05:58:58.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 2.4969112697398685,-9.392268658157988,-3.9570986971963293
+[06Aug2025 05:58:58.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -8.655600266398153,1.0435356201475088,-5.251382556836234
+[06Aug2025 05:58:58.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo moved too quickly! 8.090576753547111,4.0,-4.93590994681044
+[06Aug2025 05:59:00.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
+[06Aug2025 05:59:25.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Acquire Hardware]
+[06Aug2025 06:00:15.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> otia
+[06Aug2025 06:00:48.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Suit Up]
+[06Aug2025 06:04:17.486] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:04:19.950] [Server thread/ERROR] [snownee.jade.Jade/]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.getContainerSize()" because the return value of "net.neoforged.neoforge.items.wrapper.InvWrapper.getInv()" is null
+[06Aug2025 06:04:19.950] [Server thread/ERROR] [snownee.jade.Jade/]: See JadeErrorOutput.txt for more information
+[06Aug2025 06:04:19.951] [Server thread/ERROR] [snownee.jade.Jade/]: 
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.getContainerSize()" because the return value of "net.neoforged.neoforge.items.wrapper.InvWrapper.getInv()" is null
+	at TRANSFORMER/neoforge@21.5.87/net.neoforged.neoforge.items.wrapper.InvWrapper.getSlots(InvWrapper.java:38) ~[neoforge-21.5.87-universal.jar%23162!/:?]
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:116) ~[Jade-1.21.5-NeoForge-18.2.0.jar%23173!/:18.2.0+neoforge]
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:113) ~[Jade-1.21.5-NeoForge-18.2.0.jar%23173!/:18.2.0+neoforge]
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.addon.universal.ItemIterator$SlottedItemIterator.populate(ItemIterator.java:72) ~[Jade-1.21.5-NeoForge-18.2.0.jar%23173!/:18.2.0+neoforge]
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.addon.universal.ItemCollector.update(ItemCollector.java:74) ~[Jade-1.21.5-NeoForge-18.2.0.jar%23173!/:18.2.0+neoforge]
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.addon.universal.ItemStorageProvider$Extension.getGroups(ItemStorageProvider.java:283) ~[Jade-1.21.5-NeoForge-18.2.0.jar%23173!/:18.2.0+neoforge]
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.util.CommonProxy.getServerExtensionData(CommonProxy.java:557) ~[Jade-1.21.5-NeoForge-18.2.0.jar%23173!/:18.2.0+neoforge]
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.addon.universal.ItemStorageProvider.putData(ItemStorageProvider.java:205) ~[Jade-1.21.5-NeoForge-18.2.0.jar%23173!/:18.2.0+neoforge]
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.addon.universal.ItemStorageProvider.appendServerData(ItemStorageProvider.java:240) ~[Jade-1.21.5-NeoForge-18.2.0.jar%23173!/:18.2.0+neoforge]
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.5-NeoForge-18.2.0.jar%23173!/:18.2.0+neoforge]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:152) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:891) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:874) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:868) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:115) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:837) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:721) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06Aug2025 06:04:44.983] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/79757, l='ServerLevel[world]', x=146.28, y=70.00, z=-4084.63] died, message: 'Unemployed suffocated in a wall'
+[06Aug2025 06:05:06.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Isn't It Iron Pick]
+[06Aug2025 06:05:49.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! 7.31392455584222,0.1778544210308013,-7.0585615321297155
+[06Aug2025 06:12:52.541] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:14:11.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> bateria
+[06Aug2025 06:14:19.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> que raro xd
+[06Aug2025 06:15:03.605] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:15:39.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/79926, l='ServerLevel[world]', x=209.51, y=68.19, z=-4135.35] died, message: 'Nitwit was slain by keibel'
+[06Aug2025 06:19:49.330] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:19:49.331] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:19:49.331] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:19:57.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=281, y=65, z=-4680} BlockPos{x=282, y=64, z=-4681}
+[06Aug2025 06:20:52.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Not Today, Thank You]
+[06Aug2025 06:22:53.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
+[06Aug2025 06:22:53.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[06Aug2025 06:24:01.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pueden dormir?
+[06Aug2025 06:24:13.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> los fantasmas pe tienen hasta la pinga
+[06Aug2025 06:24:18.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[06Aug2025 06:24:18.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[06Aug2025 06:25:05.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.69.120.53:57865] logged in with entity id 99903 at (351.41602795993543, 67.0, -4689.2562163726425)
+[06Aug2025 06:25:05.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[06Aug2025 06:25:05.652] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:25:05.653] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:25:05.653] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:26:49.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:59511] logged in with entity id 101183 at (1027.043279957671, 143.0, 116.4174849793123)
+[06Aug2025 06:26:49.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[06Aug2025 06:26:50.008] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:26:50.009] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:26:50.009] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:27:10.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3232ms or 64 ticks behind
+[06Aug2025 06:28:37.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[06Aug2025 06:28:37.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[06Aug2025 06:29:50.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.211.251.42:51267] logged in with entity id 103927 at (47.47355287964436, 99.0, -523.3004638918591)
+[06Aug2025 06:29:50.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[06Aug2025 06:29:50.796] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:29:50.796] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:29:50.796] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:31:09.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Asriel_[/127.153.26.68:57831] logged in with entity id 104767 at (442.23750001192093, 84.0, 719.8312500119209)
+[06Aug2025 06:31:09.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
+[06Aug2025 06:31:09.998] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:31:09.998] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:31:09.998] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:31:09.998] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:31:09.998] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:31:09.999] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:31:09.999] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:31:09.999] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:31:24.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> dios mio q odisea
+[06Aug2025 06:32:39.693] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:32:39.694] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:32:39.694] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:32:39.694] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:32:39.694] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:33:46.188] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:33:46.188] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:33:46.188] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:33:46.188] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:33:46.189] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:34:25.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers has made the advancement [A Seedy Place]
+[06Aug2025 06:35:01.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel fell from a high place
+[06Aug2025 06:35:05.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> keibel
+[06Aug2025 06:35:10.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> fuiste a tu casa?
+[06Aug2025 06:35:27.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> ME CAGO UN TU MADRE
+[06Aug2025 06:35:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> KJAKSDJKASJKAJJAJAJAJSD
+[06Aug2025 06:35:38.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> te dejé unos cuadros
+[06Aug2025 06:35:41.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> jijiji
+[06Aug2025 06:37:51.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[06Aug2025 06:37:51.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[06Aug2025 06:38:09.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.69.120.53:53971] logged in with entity id 110633 at (356.4726254873131, 114.0, 249.07218490724318)
+[06Aug2025 06:38:09.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[06Aug2025 06:38:09.607] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:38:09.607] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:38:09.607] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:38:48.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=405, y=64, z=557} BlockPos{x=406, y=63, z=555}
+[06Aug2025 06:38:48.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=405, y=64, z=557} BlockPos{x=406, y=63, z=555}
+[06Aug2025 06:38:48.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=405, y=64, z=557} BlockPos{x=406, y=63, z=555}
+[06Aug2025 06:39:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers was slain by keibel
+[06Aug2025 06:39:09.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> xD
+[06Aug2025 06:39:09.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> pinga la rabia lo consume
+[06Aug2025 06:39:30.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> keibel todo va a estar bien
+[06Aug2025 06:39:46.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> se van plp
+[06Aug2025 06:39:48.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> keibel eres bienvenido a mi iglesia si quieres pedir perdon por tus errores
+[06Aug2025 06:39:52.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zoras
+[06Aug2025 06:39:58.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> zora tu oe
+[06Aug2025 06:40:10.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> te voy a quemar la iglesia
+[06Aug2025 06:40:18.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> es de piedra
+[06Aug2025 06:40:27.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> nice try diddy
+[06Aug2025 06:40:29.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ño que pena
+[06Aug2025 06:40:46.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> aqui dando chucho en el maicra
+[06Aug2025 06:41:43.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> I FEEL LIKE A MONSTER
+[06Aug2025 06:41:57.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> que tema pingaaaa
+[06Aug2025 06:41:59.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> I FEEL IT DEEP WITHIN
+[06Aug2025 06:42:07.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ITS JUST BEANETH THE SKIN
+[06Aug2025 06:42:14.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [What a Deal!]
+[06Aug2025 06:42:15.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> I MUST CONFESS THAT I FEEL LIKE A MONSTER
+[06Aug2025 06:42:21.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> I HATE WHAT I BECOME
+[06Aug2025 06:42:29.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> THE NIGHTMARE JUST BEGUN
+[06Aug2025 06:42:30.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo was slain by Enderman
+[06Aug2025 06:42:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> I MUST CONFESS THAT I FEEL LIKE A MONSTER
+[06Aug2025 06:42:51.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> creo que la pesadilla si vino xd
+[06Aug2025 06:43:07.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> jaja no entendi
+[06Aug2025 06:47:17.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> pli open
+[06Aug2025 06:47:25.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> oksers
+[06Aug2025 06:47:26.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> como yo puedo hacer una foto osea poner una foto de mi galeria en un marco q se necesita?
+[06Aug2025 06:47:28.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> oskers
+[06Aug2025 06:47:35.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> la cámara
+[06Aug2025 06:48:00.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q hacen
+[06Aug2025 06:48:08.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> viendo la iglesia
+[06Aug2025 06:48:11.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> en la pincha
+[06Aug2025 06:48:17.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> este es el castillo
+[06Aug2025 06:48:27.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> es una capilla no una iglesa
+[06Aug2025 06:48:35.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> aunque buena idea, ahora esa es una iglesa
+[06Aug2025 06:48:37.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> no es la iglesia :v ?
+[06Aug2025 06:48:38.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> iglesia
+[06Aug2025 06:48:42.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> es una capilla
+[06Aug2025 06:48:46.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> o sae
+[06Aug2025 06:48:49.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> la iglesia es la de ariel
+[06Aug2025 06:48:55.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> aaaa
+[06Aug2025 06:48:56.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ES UNA CAPILLA REPINGA
+[06Aug2025 06:48:59.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> la iglesia e enorme
+[06Aug2025 06:49:03.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> este esmi castilla
+[06Aug2025 06:49:03.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> y me da weba construir
+[06Aug2025 06:49:09.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> castillo?
+[06Aug2025 06:49:10.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> voy pa la iglesia a verla
+[06Aug2025 06:49:16.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> y que se necesita pa la camara es q quiero vender fotos del dedo gordo de keibel en onlyfans
+[06Aug2025 06:49:16.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> cuantos televisores tienes guardados?
+[06Aug2025 06:49:23.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> donde es?
+[06Aug2025 06:49:33.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> hacia el sur
+[06Aug2025 06:49:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> recto para alla despues de la casa
+[06Aug2025 06:49:41.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> si no es con diezmo no vienes
+[06Aug2025 06:49:42.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ok
+[06Aug2025 06:49:46.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> grax
+[06Aug2025 06:49:59.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> con diez pingas e con lo que voy
+[06Aug2025 06:50:09.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> o dios mio, santo señor
+[06Aug2025 06:50:14.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> solo te pido que hagas el favor
+[06Aug2025 06:51:37.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ariel que mierda de iglesia es esta
+[06Aug2025 06:51:39.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> que guapa la iglesia
+[06Aug2025 06:51:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> armando es de los mios
+[06Aug2025 06:51:48.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> me esperaba algo imponente que se yo
+[06Aug2025 06:51:51.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> te voy a regalar netherita
+[06Aug2025 06:51:55.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ñio es el ñing y el ñang
+[06Aug2025 06:51:57.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> no es una iglesia
+[06Aug2025 06:52:07.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> es una capilla
+[06Aug2025 06:52:12.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> por eso lo repetí 20 veces
+[06Aug2025 06:52:22.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> por que sabia q algun comepinga iba a decir
+[06Aug2025 06:52:26.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ñiñiññi q mielda
+[06Aug2025 06:52:35.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> y tenia q ser la golda
+[06Aug2025 06:53:14.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> buenas hijo
+[06Aug2025 06:53:25.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> por favor haz algo mas imponente
+[06Aug2025 06:53:25.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> un negro puso eso ahi
+[06Aug2025 06:53:28.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> asere
+[06Aug2025 06:53:31.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> es una puta capilla
+[06Aug2025 06:53:37.233] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:53:37.233] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:53:37.233] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:53:38.582] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:53:38.583] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:53:38.583] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:53:40.380] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:53:40.381] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:53:40.381] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 06:53:50.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> es una ñañilla
+[06Aug2025 06:53:54.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> la imagen
+[06Aug2025 06:53:58.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> quien la cogio
+[06Aug2025 06:54:04.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> que imagen?
+[06Aug2025 06:54:09.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> la q estaba aqui
+[06Aug2025 06:54:11.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> de jesus
+[06Aug2025 06:54:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> no habia nada
+[06Aug2025 06:54:34.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> 114 esmeraldas
+[06Aug2025 06:54:45.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> 91 patatas armando
+[06Aug2025 06:54:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> la pala de piedra no da mas david
+[06Aug2025 06:54:59.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> bueno
+[06Aug2025 06:55:02.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> te la regalo
+[06Aug2025 06:55:06.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> habrá q sustituirla por algo al nivel
+[06Aug2025 06:55:14.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> por ahora valdrá
+[06Aug2025 06:55:24.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> sueltala
+[06Aug2025 06:55:27.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> me la quedo tambien
+[06Aug2025 06:55:33.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> sacale copia
+[06Aug2025 06:55:35.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ahora
+[06Aug2025 06:55:37.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> o si no
+[06Aug2025 06:55:39.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> sueltala
+[06Aug2025 06:55:50.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tengo que ir a donde fotocopian
+[06Aug2025 06:56:01.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> la gracia del señor no es aquí
+[06Aug2025 06:56:08.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> suelta
+[06Aug2025 06:56:17.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tampoco el papel
+[06Aug2025 06:56:28.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> pediré papel a dios
+[06Aug2025 06:56:30.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> el nos lo dará
+[06Aug2025 06:56:40.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> dios nos dio papel
+[06Aug2025 06:56:43.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> que me lo de ahora entonces
+[06Aug2025 06:56:45.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> duelveme lo q sobra
+[06Aug2025 06:56:48.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> otia
+[06Aug2025 06:56:48.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> yo tengo papel
+[06Aug2025 06:56:59.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> y yo un rabo enorme
+[06Aug2025 06:57:11.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tambien hay camara del señor?
+[06Aug2025 06:57:17.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> :)
+[06Aug2025 06:57:20.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers fell from a high place
+[06Aug2025 06:57:23.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> dios nos otorga todo
+[06Aug2025 06:57:40.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> a ver
+[06Aug2025 06:57:53.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> dejame tirarla yo
+[06Aug2025 06:58:00.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> paper please
+[06Aug2025 06:58:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> REFERENCIA
+[06Aug2025 06:58:13.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> casi
+[06Aug2025 06:58:25.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> dame la foto de arnalda
+[06Aug2025 06:58:27.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> se permitia un poco de zoom
+[06Aug2025 06:58:35.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> tengo el fov al maximo
+[06Aug2025 06:58:45.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> las puertas del cielo se abren
+[06Aug2025 06:59:06.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> coño
+[06Aug2025 06:59:11.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> espera esto no era asi
+[06Aug2025 07:00:22.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> como pongo fotos de mi galeria
+[06Aug2025 07:01:08.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [Hot Stuff]
+[06Aug2025 07:01:19.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> wei
+[06Aug2025 07:02:14.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> dalej dime como pongo fotos de mi galeria?
+[06Aug2025 07:03:26.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -1.7611116260166,-0.604424101326714,-9.960701278965644
+[06Aug2025 07:04:32.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> donde estña
+[06Aug2025 07:04:49.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> david o sales o se va armando
+[06Aug2025 07:05:14.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> david
+[06Aug2025 07:05:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> 3
+[06Aug2025 07:07:25.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers fell from a high place
+[06Aug2025 07:07:48.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego
+[06Aug2025 07:07:53.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> yeap
+[06Aug2025 07:08:07.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> te falta mucho en lo q estas haciendo?
+[06Aug2025 07:08:51.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> no ya voy pa alla llevo algo?
+[06Aug2025 07:09:11.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> cariño y dignidad
+[06Aug2025 07:10:04.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -0.24822213686019268,0.0,-10.154172503128734
+[06Aug2025 07:11:17.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ moved too quickly! 0.976840067543975,-0.17675927506424216,10.10290594469302
+[06Aug2025 07:12:29.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tengo prote 4
+[06Aug2025 07:13:34.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> cojone
+[06Aug2025 07:13:44.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q paso
+[06Aug2025 07:13:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> parece el castillo de aqui de lerida
+[06Aug2025 07:13:49.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya nos calmamos?
+[06Aug2025 07:13:54.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> blasfemia
+[06Aug2025 07:14:32.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
+[06Aug2025 07:14:32.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[06Aug2025 07:15:03.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
+[06Aug2025 07:15:03.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
+[06Aug2025 07:15:09.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> xddddd
+[06Aug2025 07:15:51.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> damn que fresco
+[06Aug2025 07:16:01.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tu vez toda esa linea de ahi
+[06Aug2025 07:16:15.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> si
+[06Aug2025 07:16:20.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel fell from a high place
+[06Aug2025 07:16:22.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> cuantos de altura
+[06Aug2025 07:16:23.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hay q aplanar todo lo q esta adentro
+[06Aug2025 07:16:24.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> gracias
+[06Aug2025 07:16:28.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> aaaa
+[06Aug2025 07:16:29.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> la lava por facor
+[06Aug2025 07:16:33.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.133.243.187:49037] logged in with entity id 143091 at (542.3670557441551, 80.0, 385.6210098437507)
+[06Aug2025 07:16:34.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[06Aug2025 07:16:38.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> perfec
+[06Aug2025 07:16:41.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y la altura seria de 12 bloques
+[06Aug2025 07:16:45.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> me quedo con la foto
+[06Aug2025 07:17:14.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> si no existiera el martillo te diria que es una locura
+[06Aug2025 07:17:19.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel moved too quickly! -3.45313779810067,-0.604424101326714,9.817138625946825
+[06Aug2025 07:17:21.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> e verda
+[06Aug2025 07:17:37.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel was kicked for floating too long!
+[06Aug2025 07:17:37.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Flying is not enabled on this server
+[06Aug2025 07:17:37.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[06Aug2025 07:17:58.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> #graciasdavidporlosmods#encuerate
+[06Aug2025 07:17:59.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.211.251.42:59463] logged in with entity id 144135 at (339.3392070711457, 117.7531999805212, 310.6374984783886)
+[06Aug2025 07:17:59.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[06Aug2025 07:18:13.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> :)
+[06Aug2025 07:18:32.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> upsi
