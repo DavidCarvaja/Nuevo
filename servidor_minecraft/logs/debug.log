@@ -2399,3 +2399,86 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [06Aug2025 07:34:08.331] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [06Aug2025 07:34:10.433] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [06Aug2025 07:36:50.993] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 07:40:49.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Sweet Dreams]
+[06Aug2025 07:41:12.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was slain by Zombie
+[06Aug2025 07:41:50.995] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 07:42:42.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> nop
+[06Aug2025 07:42:58.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> te puedes creer que no cai
+[06Aug2025 07:43:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> gracias por file IV
+[06Aug2025 07:43:15.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> filo*
+[06Aug2025 07:43:25.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> devuelvelo
+[06Aug2025 07:43:30.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ahora voy
+[06Aug2025 07:43:32.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Diamonds!]
+[06Aug2025 07:43:35.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Disconnected
+[06Aug2025 07:43:35.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[06Aug2025 07:43:38.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved wrongly!
+[06Aug2025 07:44:14.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
+[06Aug2025 07:44:14.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[06Aug2025 07:45:30.330] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@456a05d2 into net.minecraft.network.Connection@9bc1a06
+[06Aug2025 07:45:33.247] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@4c7bee31 into net.minecraft.network.Connection@9bc1a06
+[06Aug2025 07:45:33.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Asriel_[/127.153.26.68:39269] logged in with entity id 160546 at (60.30212950925275, -8.0, 598.3753710085398)
+[06Aug2025 07:45:33.259] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, smithing, campfire_cooking, smelting, stonecutting, blasting, crafting]
+[06Aug2025 07:45:33.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
+[06Aug2025 07:45:36.027] [Netty Epoll Server IO #7/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@3c3e3573 into net.minecraft.network.Connection@66cb9a5b
+[06Aug2025 07:45:40.079] [Netty Epoll Server IO #7/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@13918841 into net.minecraft.network.Connection@66cb9a5b
+[06Aug2025 07:45:40.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.211.251.42:49863] logged in with entity id 160606 at (335.8495319507075, 69.0, 388.125173266215)
+[06Aug2025 07:45:40.093] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, smithing, campfire_cooking, smelting, stonecutting, blasting, crafting]
+[06Aug2025 07:45:40.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[06Aug2025 07:45:40.142] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 07:45:40.142] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 07:45:40.142] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 07:46:14.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> tambien gracias por lealtad 2 y conductividad
+[06Aug2025 07:46:21.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> para un tridente quedará durísimo
+[06Aug2025 07:46:24.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ariel
+[06Aug2025 07:46:42.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> devuelvelo
+[06Aug2025 07:46:50.996] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 07:46:58.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> haber devuelto el cuadro cuando te lo pedí
+[06Aug2025 07:47:12.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> pinga es un cuadro no encantamientos
+[06Aug2025 07:47:22.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ñiñiñiñi
+[06Aug2025 07:47:33.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> haberme dejado tranquilo a lo mio si nunca hago nada
+[06Aug2025 07:48:56.866] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@61e1e9e5 into net.minecraft.network.Connection@69f23818
+[06Aug2025 07:48:59.682] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@6df16d4b into net.minecraft.network.Connection@69f23818
+[06Aug2025 07:48:59.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:58587] logged in with entity id 163027 at (437.90773007745264, 63.0, 546.319526875844)
+[06Aug2025 07:48:59.696] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, smithing, campfire_cooking, smelting, stonecutting, blasting, crafting]
+[06Aug2025 07:48:59.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[06Aug2025 07:48:59.749] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 07:48:59.750] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 07:48:59.750] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 07:49:55.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ was slain by Dalej
+[06Aug2025 07:50:09.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> te tiré los libros
+[06Aug2025 07:50:24.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> lo se
+[06Aug2025 07:50:28.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ah ya
+[06Aug2025 07:50:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> no te voy a quitar nada
+[06Aug2025 07:50:47.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> no ni pinga
+[06Aug2025 07:51:15.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> me quedó con filo IV
+[06Aug2025 07:51:51.015] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 07:52:04.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> no
+[06Aug2025 07:52:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> me resingaste
+[06Aug2025 07:52:09.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> dame filo IV
+[06Aug2025 07:52:15.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ya yo tengo uno
+[06Aug2025 07:52:32.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Disconnected
+[06Aug2025 07:52:32.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[06Aug2025 07:53:14.003] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@56513239 into net.minecraft.network.Connection@12a8fc94
+[06Aug2025 07:53:18.181] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@47957545 into net.minecraft.network.Connection@12a8fc94
+[06Aug2025 07:53:18.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Asriel_[/127.153.26.68:51493] logged in with entity id 166669 at (68.63701096455823, 71.02978170700278, 592.2375000119209)
+[06Aug2025 07:53:18.194] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, smithing, campfire_cooking, smelting, stonecutting, blasting, crafting]
+[06Aug2025 07:53:18.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
+[06Aug2025 07:53:22.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ was slain by Dalej
+[06Aug2025 07:54:13.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> si, te voy a dar filo IV por una foto
+[06Aug2025 07:54:18.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> por resingar
+[06Aug2025 07:54:47.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> estoy tranquilo y me haces darle la vuelta al mundo por una foot que pudiste duplicar
+[06Aug2025 07:54:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> lo mismo te digo
+[06Aug2025 07:55:02.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ???
+[06Aug2025 07:55:08.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> fuiste tu
+[06Aug2025 07:55:15.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tenias 40 papeles
+[06Aug2025 07:55:16.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> te di las cosas para que lo duplicaras
+[06Aug2025 07:55:22.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> no me tiraste la foto
+[06Aug2025 07:55:26.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> te los di pa q la duplicaras
+[06Aug2025 07:55:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> no hiciste ni pinga y elegiste resingar
+[06Aug2025 07:55:46.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> cojone pero si juego con una foto no es pa que me robes los putos libros
+[06Aug2025 07:55:58.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ñiñiñiñi
+[06Aug2025 07:56:21.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> dios te bendiga
+[06Aug2025 07:56:33.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> igualmente
+[06Aug2025 07:56:51.034] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 07:57:18.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Timed out
+[06Aug2025 07:57:18.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
