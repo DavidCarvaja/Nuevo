@@ -2561,3 +2561,79 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [06Aug2025 09:06:50.957] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [06Aug2025 09:08:27.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
 [06Aug2025 09:09:22.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[06Aug2025 09:11:50.962] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 09:16:50.973] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 09:20:10.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo fell off a ladder
+[06Aug2025 09:20:16.944] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:21:50.953] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 09:22:19.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:22:22.366] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:25:18.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:25:20.416] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:26:50.954] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 09:28:52.371] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:28:52.372] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:02.220] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:02.220] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:11.621] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:13.220] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:13.469] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:13.469] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:13.469] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:20.719] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:21.320] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:22.870] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:29.221] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:30.122] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:30.123] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:30.123] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:31.129] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:31.129] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:29:31.129] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:31:21.371] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:31:51.031] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 09:31:53.611] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:31:54.522] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:31:57.070] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:32:09.914] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:32:26.322] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:32:36.821] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:33:14.121] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:33:14.121] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:33:14.121] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:35:18.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:35:40.020] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:35:40.370] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:35:40.371] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:35:40.371] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:35:40.669] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:36:50.967] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 09:37:01.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was doomed to fall by desgo
+[06Aug2025 09:37:12.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell off a ladder
+[06Aug2025 09:37:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:37:27.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:37:34.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:37:42.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:37:49.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:37:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:38:01.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:38:08.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell off a ladder
+[06Aug2025 09:38:17.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 1.0559025973523148,-10.542263135907518,1.0468176600790002
+[06Aug2025 09:38:18.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax was kicked for floating too long!
+[06Aug2025 09:38:18.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Flying is not enabled on this server
+[06Aug2025 09:38:18.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[06Aug2025 09:38:37.161] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@2bad77bb into net.minecraft.network.Connection@6096e945
+[06Aug2025 09:38:38.652] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@3805578d into net.minecraft.network.Connection@6096e945
+[06Aug2025 09:38:38.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.226.204.130:51947] logged in with entity id 208388 at (39.46712249629607, 185.19989002729224, 596.0254823842563)
+[06Aug2025 09:38:38.672] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, smithing, campfire_cooking, smelting, stonecutting, blasting, crafting]
+[06Aug2025 09:38:38.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[06Aug2025 09:38:41.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:38:51.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:40:12.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:41:28.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[06Aug2025 09:41:50.957] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Aug2025 09:42:18.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell off a ladder
+[06Aug2025 09:44:20.571] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:44:21.021] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:45:03.577] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[06Aug2025 09:46:50.960] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
