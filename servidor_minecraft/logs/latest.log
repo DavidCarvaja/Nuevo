@@ -915,3 +915,17 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 10
 [08Aug2025 08:26:12.542] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [08Aug2025 08:31:30.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=69, y=112, z=112} BlockPos{x=69, y=111, z=112}
 [08Aug2025 08:31:30.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=69, y=112, z=112} BlockPos{x=69, y=111, z=112}
+[08Aug2025 08:38:01.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=117, z=184} BlockPos{x=124, y=116, z=185}
+[08Aug2025 08:38:01.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=117, z=184} BlockPos{x=124, y=116, z=185}
+[08Aug2025 08:38:01.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=117, z=184} BlockPos{x=124, y=116, z=185}
+[08Aug2025 08:38:01.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=117, z=184} BlockPos{x=124, y=116, z=185}
+[08Aug2025 08:38:01.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=117, z=184} BlockPos{x=124, y=116, z=185}
+[08Aug2025 08:38:01.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=117, z=184} BlockPos{x=124, y=116, z=185}
+[08Aug2025 08:38:14.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=114, z=182} BlockPos{x=125, y=113, z=182}
+[08Aug2025 08:38:28.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=111, z=186} BlockPos{x=114, y=110, z=187}
+[08Aug2025 08:43:49.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=91, z=203} BlockPos{x=110, y=86, z=202}
+[08Aug2025 08:43:53.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=82, z=202} BlockPos{x=112, y=82, z=201}
+[08Aug2025 08:44:20.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=80, z=209} BlockPos{x=120, y=79, z=209}
+[08Aug2025 08:44:20.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=80, z=209} BlockPos{x=120, y=79, z=209}
+[08Aug2025 08:44:20.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=80, z=209} BlockPos{x=120, y=79, z=209}
+[08Aug2025 08:44:20.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=80, z=209} BlockPos{x=120, y=79, z=209}
