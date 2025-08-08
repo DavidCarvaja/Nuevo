@@ -2253,3 +2253,157 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [08Aug2025 07:43:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya me canse
 [08Aug2025 07:43:43.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> asi mas
 [08Aug2025 07:43:45.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> noo
+[08Aug2025 07:47:11.890] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:47:13.840] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:47:30.140] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:47:44.496] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:47:50.441] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:00.990] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:03.442] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 07:48:06.389] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:25.306] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:25.306] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:25.306] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:25.307] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:25.307] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:25.840] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:25.841] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:25.841] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:25.841] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:25.841] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:35.348] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:48:46.642] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:49:11.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=14, z=257} BlockPos{x=-48, y=13, z=256}
+[08Aug2025 07:49:11.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=14, z=257} BlockPos{x=-48, y=13, z=256}
+[08Aug2025 07:49:18.742] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:49:22.141] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:49:35.399] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:49:51.342] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:50:51.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=12, z=273} BlockPos{x=-54, y=12, z=273}
+[08Aug2025 07:50:53.103] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:50:54.522] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:50:55.766] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:51:12.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=11, z=274} BlockPos{x=-66, y=11, z=276}
+[08Aug2025 07:51:12.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=11, z=274} BlockPos{x=-66, y=11, z=276}
+[08Aug2025 07:51:14.651] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:51:19.990] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:51:20.291] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:51:20.291] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:51:20.291] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:51:24.041] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:04.940] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:08.343] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:24.191] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:26.389] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:39.089] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:39.389] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:39.637] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:39.839] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:40.140] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:40.140] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:41.840] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:41.840] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:57.239] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:52:59.088] [Server thread/ERROR] [net.minecraft.network.protocol.game.ServerPacketListener/]: Failed to handle packet ServerboundContainerClickPacket[containerId=65, stateId=1, slotNum=66, buttonNum=0, clickType=QUICK_MOVE, changedSlots={66=><empty>, 78=>ActualItem[item=Reference{ResourceKey[minecraft:item / sophisticatedbackpacks:tank_upgrade]=sophisticatedbackpacks:tank_upgrade}, count=1, components=HashedPatchMap[addedComponents={}, removedComponents=[]]]}, carriedItem=<empty>], suppressing error
+java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 10
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.core.NonNullList.get(NonNullList.java:66) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/sophisticatedcore@1.3.59/net.p3pp3rf1y.sophisticatedcore.common.gui.StorageContainerMenuBase.setRemoteSlotUnsafe(StorageContainerMenuBase.java:1005) ~[sophisticatedcore-1.21.5-1.3.59.1064.jar%23180!/:1.21.5-1.3.59.1064]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:1843) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:54) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:14) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:27) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:152) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:891) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:874) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:868) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:833) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:841) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:721) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23161!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[08Aug2025 07:53:03.437] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 07:53:24.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-58, y=20, z=264} BlockPos{x=-58, y=19, z=263}
+[08Aug2025 07:53:26.275] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:53:26.275] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:53:34.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ tried to swim in lava
+[08Aug2025 07:53:48.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ fell from a high place
+[08Aug2025 07:54:00.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> eeepaaaa
+[08Aug2025 07:54:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> tu empujon me la peló
+[08Aug2025 07:54:13.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> hazme tp a eduardo
+[08Aug2025 07:54:14.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> pli
+[08Aug2025 07:54:16.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ;(
+[08Aug2025 07:54:53.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> dale david
+[08Aug2025 07:55:01.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q andamos en casa de la pinga
+[08Aug2025 07:55:04.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> etamo nosotro nama en el selvel
+[08Aug2025 07:55:07.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> nadie se va a entelal
+[08Aug2025 07:55:12.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> esacto
+[08Aug2025 07:55:15.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya voy
+[08Aug2025 07:55:21.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> estoy abriendo la consola
+[08Aug2025 07:55:21.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> jiijijijiji
+[08Aug2025 07:55:40.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tienes q prender la play pa eso'
+[08Aug2025 07:55:42.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> pa hacer tp es /give _Asriel_ 500000xp
+[08Aug2025 07:56:16.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> yo creo q asi no es
+[08Aug2025 07:56:22.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> te juro que si
+[08Aug2025 07:57:05.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported _Asriel_ to morax
+[08Aug2025 07:57:23.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> davi haznos tp a ti
+[08Aug2025 07:57:26.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> jijijiji
+[08Aug2025 07:57:35.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Dalej
+[08Aug2025 07:57:45.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported morax to Dalej
+[08Aug2025 07:57:51.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q tanque
+[08Aug2025 07:58:01.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported _Asriel_ to morax
+[08Aug2025 07:58:03.435] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 07:58:04.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> te voy a chupar el pene 80 vece
+[08Aug2025 07:58:07.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> el mejor admin
+[08Aug2025 07:58:14.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ahora deme 9000 de xp
+[08Aug2025 07:58:18.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> q lo peldi to
+[08Aug2025 07:58:19.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ahora es 1 de netherita cada uno por los tp
+[08Aug2025 07:58:23.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> :)
+[08Aug2025 07:58:37.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Hidden in the Depths]
+[08Aug2025 07:58:40.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ahi ta
+[08Aug2025 07:58:43.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ahora niveles
+[08Aug2025 07:58:53.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> que niveles
+[08Aug2025 07:58:58.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> 900000 de xp
+[08Aug2025 07:59:00.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> pa cada uno
+[08Aug2025 07:59:10.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> aqui se vino a negociar
+[08Aug2025 07:59:17.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> si, y un rabo del tamaño del mundo tambien no?
+[08Aug2025 07:59:26.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> depaso
+[08Aug2025 07:59:27.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> te doy 2 lingotes mas de netherite
+[08Aug2025 07:59:34.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> por 40 lvl
+[08Aug2025 07:59:34.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a farmear en la granja de arriba
+[08Aug2025 07:59:37.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> e velda
+[08Aug2025 08:00:00.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tpm
+[08Aug2025 08:00:04.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ugu
+[08Aug2025 08:00:44.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> que pinga fue eso
+[08Aug2025 08:01:27.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> david
+[08Aug2025 08:01:29.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> sube
+[08Aug2025 08:01:30.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> repinga
+[08Aug2025 08:01:38.385] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 08:01:38.385] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 08:01:38.386] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 08:01:38.386] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 08:02:03.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya me voy igualmente
+[08Aug2025 08:02:12.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> al fin
+[08Aug2025 08:02:13.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya les deberia de funcionar cuando me valla
+[08Aug2025 08:02:13.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> na mentira
+[08Aug2025 08:02:15.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> okoko
+[08Aug2025 08:02:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> go
+[08Aug2025 08:02:32.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> en un rato regreso
+[08Aug2025 08:02:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> me quedo afk
+[08Aug2025 08:02:38.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> q mal
+[08Aug2025 08:03:03.434] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 08:04:32.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> pero acaba de salir
+[08Aug2025 08:04:34.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> hdp
+[08Aug2025 08:04:37.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> o sube
+[08Aug2025 08:04:39.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> si
+[08Aug2025 08:05:44.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> david
+[08Aug2025 08:05:47.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> repinga

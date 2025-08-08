@@ -3212,6 +3212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-08 07:58:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_fumarole": {
     "criteria": {
       "has_brimstone": "2025-08-08 05:02:49 +0000"
@@ -3230,6 +3236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-08 07:58:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-08-08 05:28:08 +0000",
@@ -3242,6 +3254,12 @@
   "minecraft:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-08-08 05:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-08 07:58:37 +0000"
     },
     "done": true
   },
@@ -3260,6 +3278,12 @@
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_the_recipe": "2025-08-08 07:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-08 07:58:33 +0000"
     },
     "done": true
   },
@@ -3329,6 +3353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-08 07:58:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-08-08 04:59:00 +0000"
@@ -3344,6 +3374,12 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2025-08-08 06:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-08 07:58:37 +0000"
     },
     "done": true
   },
@@ -3383,9 +3419,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-08-08 07:53:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-08-08 05:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-08 07:58:37 +0000"
     },
     "done": true
   },
@@ -3473,6 +3521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-08 07:58:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-08-08 04:59:46 +0000"
@@ -3521,9 +3575,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-08 07:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-08 07:58:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-08-08 06:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-08 07:58:33 +0000"
     },
     "done": true
   },
@@ -3605,6 +3677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-08 07:58:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-08-08 05:09:29 +0000"
@@ -3662,6 +3740,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-08-08 05:31:21 +0000"
+    },
+    "done": true
+  },
+  "onlyhammers:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-08 07:58:33 +0000"
     },
     "done": true
   },
@@ -3782,6 +3866,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-08-08 05:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-08 07:58:33 +0000"
     },
     "done": true
   },
