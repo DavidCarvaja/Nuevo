@@ -11,6 +11,7 @@
       "muskeg": "2025-08-06 07:02:31 +0000",
       "maple_woods": "2025-08-05 06:30:50 +0000",
       "pumpkin_patch": "2025-08-06 07:03:07 +0000",
+      "visceral_heap": "2025-08-08 05:45:04 +0000",
       "snowy_coniferous_forest": "2025-08-05 06:35:02 +0000",
       "snowy_fir_clearing": "2025-08-05 06:40:08 +0000",
       "erupting_inferno": "2025-08-08 05:42:17 +0000",
@@ -190,7 +191,8 @@
       "cooked_porkchop": "2025-08-06 06:38:38 +0000",
       "sweet_berries": "2025-08-05 06:33:53 +0000",
       "cooked_beef": "2025-08-05 08:03:20 +0000",
-      "baked_potato": "2025-08-05 06:38:36 +0000"
+      "baked_potato": "2025-08-05 06:38:36 +0000",
+      "golden_carrot": "2025-08-08 05:51:55 +0000"
     },
     "done": false
   },
@@ -1132,10 +1134,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-08-08 06:01:19 +0000",
       "minecraft:skeleton": "2025-08-05 06:59:45 +0000",
+      "minecraft:piglin": "2025-08-08 05:47:59 +0000",
+      "minecraft:zombified_piglin": "2025-08-08 05:48:12 +0000",
+      "minecraft:magma_cube": "2025-08-08 06:01:34 +0000",
       "minecraft:spider": "2025-08-05 06:40:51 +0000",
+      "minecraft:piglin_brute": "2025-08-08 05:51:36 +0000",
+      "minecraft:wither_skeleton": "2025-08-08 05:58:47 +0000",
       "minecraft:zombie": "2025-08-05 06:39:46 +0000",
-      "minecraft:creeper": "2025-08-06 05:06:00 +0000"
+      "minecraft:creeper": "2025-08-06 05:06:00 +0000",
+      "minecraft:hoglin": "2025-08-08 05:55:09 +0000"
     },
     "done": false
   },
@@ -2783,9 +2792,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-08 05:52:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+    "criteria": {
+      "has_brimstone": "2025-08-08 05:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-08 05:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-08 05:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-08 05:55:27 +0000"
     },
     "done": true
   },
@@ -2795,9 +2828,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
+    "criteria": {
+      "has_brimstone": "2025-08-08 05:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-08 05:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-08 05:44:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-08 05:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-08-08 05:47:05 +0000"
     },
     "done": true
   },
@@ -2843,9 +2900,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_the_recipe": "2025-08-08 05:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-08-08 05:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-08 05:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-08 05:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-08 05:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-08-08 05:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-08 06:00:08 +0000"
     },
     "done": true
   },
@@ -2867,6 +2960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-08 05:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-08 05:32:03 +0000"
@@ -2876,6 +2975,24 @@
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-08-08 05:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-08 06:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-08-08 05:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-08 05:43:14 +0000"
     },
     "done": true
   },
@@ -2891,9 +3008,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-08 05:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-08 06:00:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud": {
+    "criteria": {
+      "has_brimstone": "2025-08-08 05:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-08 05:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-08 05:52:17 +0000"
     },
     "done": true
   },
@@ -2903,9 +3044,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-08 05:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-08 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-08 05:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-08 05:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-08 05:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-08 05:43:14 +0000"
     },
     "done": true
   },
@@ -2921,6 +3092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-08-08 05:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-08-08 05:42:17 +0000"
@@ -2933,9 +3110,45 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-08-08 05:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-08 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-08 05:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-08 06:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-08 05:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-08 05:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-08-08 05:47:05 +0000"
     },
     "done": true
   },
@@ -2945,15 +3158,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-08-08 05:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-08 05:52:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-08-08 05:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-08 05:55:10 +0000"
+    },
+    "done": true
+  },
   "onlyhammers:recipes/tools/lapis_hammer": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-08 05:04:46 +0000"
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-08 05:47:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-08 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-08-08 05:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-08 05:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-08 05:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-08 05:55:20 +0000"
     },
     "done": true
   },

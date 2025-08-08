@@ -1992,3 +1992,49 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [08Aug2025 05:44:28.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=76, z=-36} BlockPos{x=23, y=77, z=-37}
 [08Aug2025 05:44:28.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=76, z=-36} BlockPos{x=23, y=77, z=-37}
 [08Aug2025 05:44:31.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=77, z=-46} BlockPos{x=23, y=77, z=-45}
+[08Aug2025 05:45:13.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=74, z=-498} BlockPos{x=309, y=74, z=-497}
+[08Aug2025 05:45:13.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=74, z=-498} BlockPos{x=309, y=74, z=-497}
+[08Aug2025 05:45:13.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=74, z=-498} BlockPos{x=309, y=74, z=-497}
+[08Aug2025 05:45:13.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=74, z=-498} BlockPos{x=309, y=74, z=-497}
+[08Aug2025 05:45:13.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=74, z=-498} BlockPos{x=309, y=74, z=-497}
+[08Aug2025 05:45:13.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=74, z=-498} BlockPos{x=309, y=74, z=-497}
+[08Aug2025 05:45:13.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=74, z=-498} BlockPos{x=309, y=74, z=-497}
+[08Aug2025 05:45:13.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=74, z=-498} BlockPos{x=309, y=74, z=-497}
+[08Aug2025 05:45:13.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=74, z=-498} BlockPos{x=309, y=74, z=-497}
+[08Aug2025 05:45:21.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=78, z=-491} BlockPos{x=308, y=78, z=-490}
+[08Aug2025 05:45:21.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=78, z=-491} BlockPos{x=308, y=78, z=-490}
+[08Aug2025 05:45:21.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=78, z=-491} BlockPos{x=308, y=78, z=-490}
+[08Aug2025 05:45:21.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=78, z=-491} BlockPos{x=308, y=78, z=-490}
+[08Aug2025 05:45:26.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=304, y=82, z=-486} BlockPos{x=303, y=82, z=-486}
+[08Aug2025 05:45:28.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=302, y=84, z=-484} BlockPos{x=302, y=84, z=-483}
+[08Aug2025 05:45:45.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=87, z=-479} BlockPos{x=300, y=86, z=-482}
+[08Aug2025 05:46:19.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[08Aug2025 05:46:19.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[08Aug2025 05:46:50.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-69, y=48, z=-161} BlockPos{x=-68, y=48, z=-161}
+[08Aug2025 05:46:50.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=48, z=-161} BlockPos{x=-68, y=48, z=-161}
+[08Aug2025 05:47:02.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
+[08Aug2025 05:47:02.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[08Aug2025 05:47:03.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [Those Were the Days]
+[08Aug2025 05:47:39.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=273, y=109, z=-421} BlockPos{x=274, y=110, z=-421}
+[08Aug2025 05:47:55.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [Take Aim]
+[08Aug2025 05:48:03.458] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 05:48:55.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> pinga
+[08Aug2025 05:48:59.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> wajapen
+[08Aug2025 05:49:12.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> te mando video por wasa
+[08Aug2025 05:50:24.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [War Pigs]
+[08Aug2025 05:53:03.456] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 05:56:10.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> david conseguiste el disco'
+[08Aug2025 05:56:13.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ?
+[08Aug2025 05:56:25.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> que disco?
+[08Aug2025 05:56:34.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> el de mi polla como un ristro
+[08Aug2025 05:56:36.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> el de pigstep
+[08Aug2025 05:56:46.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> no
+[08Aug2025 05:57:00.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> liteal solo fui al nether por la madera xd
+[08Aug2025 05:57:21.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ahora regresa full netherite XD
+[08Aug2025 05:57:51.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved wrongly!
+[08Aug2025 05:58:03.446] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 05:58:37.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [A Terrible Fortress]
+[08Aug2025 05:59:05.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> pinga que susto
+[08Aug2025 06:00:24.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> alguien tiene tinte morado?
+[08Aug2025 06:03:03.445] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 06:03:17.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [Into Fire]
