@@ -2451,3 +2451,7 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 10
 [08Aug2025 08:44:20.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=80, z=209} BlockPos{x=120, y=79, z=209}
 [08Aug2025 08:44:20.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=80, z=209} BlockPos{x=120, y=79, z=209}
 [08Aug2025 08:44:20.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=80, z=209} BlockPos{x=120, y=79, z=209}
+[08Aug2025 08:47:49.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Disconnected
+[08Aug2025 08:47:49.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[08Aug2025 08:48:05.611] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 08:53:05.612] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
