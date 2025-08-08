@@ -2483,3 +2483,45 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 10
 [08Aug2025 09:16:32.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> diego mira mi conexion
 [08Aug2025 09:16:33.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> bendecido
 [08Aug2025 09:16:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> eso e starlink de eso
+[08Aug2025 09:18:05.654] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 09:18:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> hace cuant se fue david
+[08Aug2025 09:20:10.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
+[08Aug2025 09:20:10.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[08Aug2025 09:20:35.014] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:22:13.774] [Netty Epoll Server IO #7/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@7d9bd92 into net.minecraft.network.Connection@732b86eb
+[08Aug2025 09:22:15.911] [Netty Epoll Server IO #7/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@4968d760 into net.minecraft.network.Connection@732b86eb
+[08Aug2025 09:22:15.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Asriel_[/127.179.113.90:35529] logged in with entity id 131811 at (133.7705054036155, 28.458359067492196, 229.00521267501014)
+[08Aug2025 09:22:15.934] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smithing, blasting, campfire_cooking, smelting, smoking, crafting, stonecutting]
+[08Aug2025 09:22:15.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
+[08Aug2025 09:22:15.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:22:15.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:22:15.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:22:15.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:22:18.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ tried to swim in lava
+[08Aug2025 09:23:05.651] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 09:24:10.245] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:24:10.246] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:24:12.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> [x:133, y:31, z:229, dim:minecraft:the_nether]
+[08Aug2025 09:24:27.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Disconnected
+[08Aug2025 09:24:27.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[08Aug2025 09:25:45.998] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:25:45.998] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:25:45.998] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:25:48.045] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:25:48.045] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:25:48.045] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:26:00.892] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:26:00.893] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:26:00.893] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:26:00.893] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:26:09.042] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:26:09.042] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:26:09.043] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:26:09.043] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:27:19.140] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:27:19.141] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:27:19.141] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:27:19.141] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:27:44.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax burned to death
+[08Aug2025 09:27:57.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pinga el gasht
+[08Aug2025 09:28:05.630] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
