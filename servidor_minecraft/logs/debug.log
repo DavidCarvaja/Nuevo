@@ -2087,3 +2087,58 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [08Aug2025 06:38:03.460] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [08Aug2025 06:38:38.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has completed the challenge [Hero of the Village]
 [08Aug2025 06:43:03.450] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 06:48:03.450] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 06:50:40.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> david estas en el nether?
+[08Aug2025 06:50:48.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> no
+[08Aug2025 06:51:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> puedes ir a la casa de ariel y activar el tp es q necesito volver rapido
+[08Aug2025 06:51:25.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> voy
+[08Aug2025 06:51:52.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a la iglesia?
+[08Aug2025 06:51:55.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> nono
+[08Aug2025 06:51:57.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> antes
+[08Aug2025 06:52:06.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ok
+[08Aug2025 06:52:12.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a la derecha de la entrada de la casa
+[08Aug2025 06:52:33.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> o a la izquierda depende de donde llegues
+[08Aug2025 06:53:03.456] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 06:53:43.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> david al otro ldo
+[08Aug2025 06:53:58.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> cual de las 2 es?
+[08Aug2025 06:54:04.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> la de la izquierda
+[08Aug2025 06:54:13.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a buano
+[08Aug2025 06:54:16.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> es la unica con enderper
+[08Aug2025 06:54:19.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> la otra no tenia xd
+[08Aug2025 06:54:44.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ moved wrongly!
+[08Aug2025 06:54:44.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ moved wrongly!
+[08Aug2025 06:54:44.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ moved wrongly!
+[08Aug2025 06:54:57.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> DAVID ME QUEDÉ ATRAPADO DE NUEVO :((((
+[08Aug2025 06:55:08.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> perate
+[08Aug2025 06:55:15.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ya sali, no rompi na
+[08Aug2025 06:55:19.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 06:55:33.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tengo que ponerle mas delay
+[08Aug2025 06:56:02.340] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 06:56:02.340] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 06:56:02.341] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 06:56:02.341] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 06:56:02.341] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 06:56:31.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> look
+[08Aug2025 06:56:35.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> no me llenes la casa de roca :(
+[08Aug2025 06:56:41.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> dalejlaroca
+[08Aug2025 06:56:51.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> otia
+[08Aug2025 06:56:53.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> tengo filo 4 yo tambien
+[08Aug2025 06:56:54.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> singao
+[08Aug2025 06:57:06.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ta rotico el pico
+[08Aug2025 06:57:11.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> el pingalarga
+[08Aug2025 06:58:03.440] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 06:58:48.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> david la granjita esta no tira na
+[08Aug2025 06:59:30.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> me la rompoiste :v
+[08Aug2025 06:59:34.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> que
+[08Aug2025 06:59:39.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> na mentira
+[08Aug2025 06:59:40.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> si no he hecho na
+[08Aug2025 06:59:41.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> singao
+[08Aug2025 06:59:48.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> en servidores se buguea
+[08Aug2025 06:59:53.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> dame 900000 niveles
+[08Aug2025 06:59:57.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> te doy un besito
+[08Aug2025 06:59:59.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> porque ando yo aca abajo
+[08Aug2025 07:00:06.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> sal del server
+[08Aug2025 07:00:08.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> t tu me das 900000 mamadas
+[08Aug2025 07:00:11.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> ok
+[08Aug2025 07:00:18.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me apunto
+[08Aug2025 07:03:03.438] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
