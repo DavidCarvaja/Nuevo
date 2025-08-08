@@ -3144,6 +3144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_wildflowers": {
+    "criteria": {
+      "has_purple_wildflowers": "2025-08-06 06:25:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/maple_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-08-06 07:31:23 +0000"
@@ -3153,12 +3159,6 @@
   "biomesoplenty:recipes/building_blocks/stripped_maple_wood": {
     "criteria": {
       "has_log": "2025-08-06 07:31:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_wildflowers": {
-    "criteria": {
-      "has_purple_wildflowers": "2025-08-06 06:25:51 +0000"
     },
     "done": true
   },
