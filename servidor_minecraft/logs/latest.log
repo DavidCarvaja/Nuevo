@@ -582,3 +582,10 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [08Aug2025 06:17:34.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> david mirate esta
 [08Aug2025 06:17:56.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q te parece
 [08Aug2025 06:18:03.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> amazing
+[08Aug2025 06:34:40.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [Voluntary Exile]
+[08Aug2025 06:36:37.540] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/77637, l='ServerLevel[world]', x=654.84, y=72.00, z=310.61] died, message: 'Unemployed was slain by Zombie'
+[08Aug2025 06:37:20.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Dalej a server operator
+[08Aug2025 06:37:49.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 10 [Amethyst Cluster] to Dalej]
+[08Aug2025 06:37:56.092] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/77632, l='ServerLevel[world]', x=646.51, y=64.00, z=217.70] died, message: 'Farmer was slain by Zombie'
+[08Aug2025 06:38:01.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Made Dalej no longer a server operator]
+[08Aug2025 06:38:38.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has completed the challenge [Hero of the Village]
