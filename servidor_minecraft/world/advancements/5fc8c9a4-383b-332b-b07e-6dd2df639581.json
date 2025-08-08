@@ -3027,5 +3027,11 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-08-08 05:34:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }

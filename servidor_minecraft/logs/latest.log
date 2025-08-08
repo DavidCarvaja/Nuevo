@@ -453,3 +453,56 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [08Aug2025 05:19:06.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> si
 [08Aug2025 05:19:09.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> perfe
 [08Aug2025 05:19:13.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> mientras no la rompan
+[08Aug2025 05:26:10.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [What a Deal!]
+[08Aug2025 05:28:00.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=945, y=89, z=-823} BlockPos{x=950, y=88, z=-831}
+[08Aug2025 05:28:00.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=945, y=89, z=-823} BlockPos{x=950, y=88, z=-831}
+[08Aug2025 05:28:31.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=980, y=68, z=-861} BlockPos{x=979, y=68, z=-862}
+[08Aug2025 05:28:31.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=980, y=68, z=-861} BlockPos{x=979, y=68, z=-862}
+[08Aug2025 05:28:31.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=980, y=68, z=-861} BlockPos{x=979, y=68, z=-862}
+[08Aug2025 05:28:31.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=980, y=68, z=-861} BlockPos{x=979, y=68, z=-862}
+[08Aug2025 05:30:22.601] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:30:22.602] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:30:38.400] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:30:38.401] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:33:02.499] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:33:04.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers was slain by keibel
+[08Aug2025 05:33:04.549] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:33:10.072] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:33:11.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> perdió la cordura
+[08Aug2025 05:33:26.956] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:33:28.503] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:33:56.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers was slain by Enderman
+[08Aug2025 05:34:03.001] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:34:12.299] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:34:17.352] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:34:19.550] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:34:24.050] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:34:59.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=934, y=72, z=-862} BlockPos{x=934, y=71, z=-861}
+[08Aug2025 05:35:02.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was blown up by Creeper
+[08Aug2025 05:35:15.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> coño keibel asi no era
+[08Aug2025 05:35:20.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=905, y=71, z=-840} BlockPos{x=907, y=72, z=-840}
+[08Aug2025 05:35:37.444] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:35:45.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=72, z=-796} BlockPos{x=859, y=71, z=-796}
+[08Aug2025 05:36:24.008] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:36:26.051] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:37:08.907] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:38:14.301] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:38:14.351] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:38:25.299] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:38:25.748] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:38:36.448] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:38:36.449] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:39:52.350] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:39:52.351] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:40:01.324] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:40:01.325] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:40:01.350] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:40:01.350] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 05:40:46.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel fell from a high place
+[08Aug2025 05:40:57.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> pingaaaaaaa
+[08Aug2025 05:42:17.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [We Need to Go Deeper]
+[08Aug2025 05:43:56.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel fell from a high place
+[08Aug2025 05:44:16.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=78, z=3} BlockPos{x=23, y=78, z=4}
+[08Aug2025 05:44:28.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=76, z=-36} BlockPos{x=23, y=77, z=-37}
+[08Aug2025 05:44:28.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=76, z=-36} BlockPos{x=23, y=77, z=-37}
+[08Aug2025 05:44:31.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=77, z=-46} BlockPos{x=23, y=77, z=-45}

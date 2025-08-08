@@ -9,15 +9,16 @@
     "criteria": {
       "forested_field": "2025-08-05 06:34:38 +0000",
       "muskeg": "2025-08-06 07:02:31 +0000",
-      "field": "2025-08-05 06:30:40 +0000",
-      "seasonal_forest": "2025-08-06 07:06:54 +0000",
-      "highland": "2025-08-06 04:56:01 +0000",
       "maple_woods": "2025-08-05 06:30:50 +0000",
-      "dead_forest": "2025-08-05 06:35:08 +0000",
-      "snowy_maple_woods": "2025-08-05 06:34:54 +0000",
       "pumpkin_patch": "2025-08-06 07:03:07 +0000",
       "snowy_coniferous_forest": "2025-08-05 06:35:02 +0000",
       "snowy_fir_clearing": "2025-08-05 06:40:08 +0000",
+      "erupting_inferno": "2025-08-08 05:42:17 +0000",
+      "field": "2025-08-05 06:30:40 +0000",
+      "seasonal_forest": "2025-08-06 07:06:54 +0000",
+      "highland": "2025-08-06 04:56:01 +0000",
+      "dead_forest": "2025-08-05 06:35:08 +0000",
+      "snowy_maple_woods": "2025-08-05 06:34:54 +0000",
       "ominous_woods": "2025-08-05 06:26:21 +0000"
     },
     "done": false
@@ -2788,6 +2789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-08 05:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-08 05:04:46 +0000"
@@ -2812,9 +2819,57 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-08 05:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-08 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "onlyhammers:recipes/tools/emerald_hammer": {
+    "criteria": {
+      "has_emerald": "2025-08-08 05:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-08 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-08 05:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-08-08 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-08 05:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-08-08 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-08 05:32:03 +0000"
     },
     "done": true
   },
@@ -2824,9 +2879,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-08-08 05:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-08 05:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-08 05:26:10 +0000"
     },
     "done": true
   },
@@ -2836,15 +2903,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-08 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-08 05:29:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_logs": "2025-08-08 05:09:18 +0000"
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-08 05:42:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-08-08 05:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-08 05:32:03 +0000"
     },
     "done": true
   },
@@ -2857,6 +2948,12 @@
   "onlyhammers:recipes/tools/lapis_hammer": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-08 05:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-08 05:32:03 +0000"
     },
     "done": true
   },
