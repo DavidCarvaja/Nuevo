@@ -1057,3 +1057,12 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 10
 [08Aug2025 10:03:46.039] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [08Aug2025 10:04:17.592] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [08Aug2025 10:04:17.592] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 10:10:43.239] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 10:10:43.240] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 10:11:46.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego tu q vives mas o menos cerca del mar me puedes conseguir q stack de algas?
+[08Aug2025 10:12:45.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> voy a ver primero en el rio xq el unico mar que se esta lejito
+[08Aug2025 10:12:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> dale dale
+[08Aug2025 10:18:07.238] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 10:18:07.239] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 10:19:04.189] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 10:19:04.190] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
