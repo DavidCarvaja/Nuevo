@@ -691,3 +691,55 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [08Aug2025 07:33:32.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=11, z=204} BlockPos{x=64, y=9, z=206}
 [08Aug2025 07:34:22.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=13, z=214} BlockPos{x=43, y=11, z=216}
 [08Aug2025 07:34:45.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=14, z=247} BlockPos{x=44, y=12, z=247}
+[08Aug2025 07:37:22.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=13, z=258} BlockPos{x=-2, y=13, z=257}
+[08Aug2025 07:37:22.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=13, z=258} BlockPos{x=-2, y=13, z=257}
+[08Aug2025 07:37:22.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=13, z=258} BlockPos{x=-2, y=13, z=257}
+[08Aug2025 07:37:22.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=13, z=258} BlockPos{x=-2, y=13, z=257}
+[08Aug2025 07:37:22.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=13, z=258} BlockPos{x=-2, y=13, z=257}
+[08Aug2025 07:37:22.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=13, z=258} BlockPos{x=-2, y=13, z=257}
+[08Aug2025 07:37:22.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=13, z=258} BlockPos{x=-2, y=13, z=257}
+[08Aug2025 07:40:41.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ burned to death
+[08Aug2025 07:40:47.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> pinga 27 lvl
+[08Aug2025 07:40:54.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ fell off a ladder
+[08Aug2025 07:40:58.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> pinga 0 niveles
+[08Aug2025 07:41:08.244] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:41:08.244] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:41:08.244] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:41:08.244] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:41:08.245] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:41:22.242] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:41:22.242] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:41:22.242] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:41:22.242] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:41:22.242] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 07:42:35.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ fell from a high place
+[08Aug2025 07:42:41.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> manda cachucha
+[08Aug2025 07:42:44.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> vamoo ariel
+[08Aug2025 07:42:48.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> tu puede
+[08Aug2025 07:43:16.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> david escribe a
+[08Aug2025 07:43:19.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> muchas veces en el chat
+[08Aug2025 07:43:21.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> tipo
+[08Aug2025 07:43:21.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:22.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> a
+[08Aug2025 07:43:23.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> a
+[08Aug2025 07:43:26.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:26.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> asi muchas veces
+[08Aug2025 07:43:26.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:27.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:27.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:28.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:28.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> at
+[08Aug2025 07:43:29.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> att
+[08Aug2025 07:43:31.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:33.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:34.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:34.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:35.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:35.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:36.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:36.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:37.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> a
+[08Aug2025 07:43:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya me canse
+[08Aug2025 07:43:43.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> asi mas
+[08Aug2025 07:43:45.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> noo
