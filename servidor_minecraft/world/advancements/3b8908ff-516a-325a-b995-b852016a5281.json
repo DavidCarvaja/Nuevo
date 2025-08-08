@@ -16,6 +16,7 @@
       "snowy_fir_clearing": "2025-08-05 06:40:08 +0000",
       "erupting_inferno": "2025-08-08 05:42:17 +0000",
       "field": "2025-08-05 06:30:40 +0000",
+      "undergrowth": "2025-08-08 06:12:28 +0000",
       "seasonal_forest": "2025-08-06 07:06:54 +0000",
       "highland": "2025-08-06 04:56:01 +0000",
       "dead_forest": "2025-08-05 06:35:08 +0000",
@@ -1144,6 +1145,7 @@
       "minecraft:wither_skeleton": "2025-08-08 05:58:47 +0000",
       "minecraft:zombie": "2025-08-05 06:39:46 +0000",
       "minecraft:creeper": "2025-08-06 05:06:00 +0000",
+      "minecraft:ghast": "2025-08-08 06:12:45 +0000",
       "minecraft:hoglin": "2025-08-08 05:55:09 +0000"
     },
     "done": false
@@ -2918,6 +2920,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-08 06:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-08-08 05:47:55 +0000"
@@ -3092,6 +3100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-08 06:20:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-08-08 05:47:05 +0000"
@@ -3101,6 +3115,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-08-08 05:42:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-08-08 06:18:30 +0000"
     },
     "done": true
   },
@@ -3134,6 +3154,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-08-08 06:18:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-08 05:52:17 +0000"
@@ -3161,6 +3187,12 @@
   "minecraft:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-08-08 05:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-08 06:03:17 +0000"
     },
     "done": true
   },
@@ -3221,6 +3253,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-08-08 05:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-08 06:03:17 +0000"
     },
     "done": true
   },
