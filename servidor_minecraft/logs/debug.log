@@ -1695,3 +1695,24 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [08Aug2025 04:32:50.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> te va pa la mpinfga
 [08Aug2025 04:33:01.319] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [08Aug2025 04:33:26.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> xdd
+[08Aug2025 04:38:01.316] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 04:38:34.193] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 04:39:04.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved wrongly!
+[08Aug2025 04:41:05.353] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@3f9e0860 into net.minecraft.network.Connection@7a9c91f7
+[08Aug2025 04:41:08.421] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@4b2c88fc into net.minecraft.network.Connection@7a9c91f7
+[08Aug2025 04:41:08.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Asriel_[/127.75.25.138:45717] logged in with entity id 11815 at (177.14727381257498, 80.0, 621.1061919347578)
+[08Aug2025 04:41:08.458] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smithing, blasting, campfire_cooking, smelting, smoking, crafting, stonecutting]
+[08Aug2025 04:41:08.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
+[08Aug2025 04:41:25.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=393, y=66, z=598} BlockPos{x=392, y=65, z=597}
+[08Aug2025 04:42:13.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Disconnected
+[08Aug2025 04:42:13.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[08Aug2025 04:43:01.324] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 04:43:06.192] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@25572897 into net.minecraft.network.Connection@18670d52
+[08Aug2025 04:43:08.331] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1d46ae0c into net.minecraft.network.Connection@18670d52
+[08Aug2025 04:43:08.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Asriel_[/127.179.113.90:54615] logged in with entity id 13072 at (177.14727381257498, 80.0, 621.1061919347578)
+[08Aug2025 04:43:08.351] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smithing, blasting, campfire_cooking, smelting, smoking, crafting, stonecutting]
+[08Aug2025 04:43:08.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
+[08Aug2025 04:43:31.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> pa las chulas mi paquete y pal chispitas mi cohete
+[08Aug2025 04:43:36.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> david los lvl
+[08Aug2025 04:43:45.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> voy
+[08Aug2025 04:43:53.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Dalej a server operator
