@@ -3257,6 +3257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_the_recipe": "2025-08-08 07:32:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-08-08 05:02:49 +0000"
