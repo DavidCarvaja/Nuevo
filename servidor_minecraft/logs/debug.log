@@ -2457,3 +2457,29 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 10
 [08Aug2025 08:53:05.612] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [08Aug2025 08:58:05.837] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [08Aug2025 09:03:05.614] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 09:08:05.613] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 09:12:13.112] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@6dba7db0 into net.minecraft.network.Connection@198e7dd9
+[08Aug2025 09:12:16.453] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@71e27a7d into net.minecraft.network.Connection@198e7dd9
+[08Aug2025 09:12:16.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.179.113.90:60999] logged in with entity id 126980 at (440.8964708394797, 83.0, 723.3156819451178)
+[08Aug2025 09:12:16.514] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smithing, blasting, campfire_cooking, smelting, smoking, crafting, stonecutting]
+[08Aug2025 09:12:16.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[08Aug2025 09:12:16.613] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:13:05.642] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 09:15:53.956] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@9af0e5e into net.minecraft.network.Connection@174fc6d1
+[08Aug2025 09:15:55.713] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@4e4840a6 into net.minecraft.network.Connection@174fc6d1
+[08Aug2025 09:15:55.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:36705] logged in with entity id 128256 at (452.8629401212129, 63.0, 577.4094222532966)
+[08Aug2025 09:15:55.741] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smithing, blasting, campfire_cooking, smelting, smoking, crafting, stonecutting]
+[08Aug2025 09:15:55.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[08Aug2025 09:15:55.770] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:15:55.770] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:15:55.770] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:15:55.770] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:15:55.771] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:16:01.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> tarde
+[08Aug2025 09:16:04.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> diego
+[08Aug2025 09:16:07.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ven pal nether
+[08Aug2025 09:16:10.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> un poquito tarde
+[08Aug2025 09:16:18.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> un poquito na mas
+[08Aug2025 09:16:32.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> diego mira mi conexion
+[08Aug2025 09:16:33.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> bendecido
+[08Aug2025 09:16:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> eso e starlink de eso

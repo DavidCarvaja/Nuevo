@@ -931,3 +931,21 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 10
 [08Aug2025 08:44:20.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=80, z=209} BlockPos{x=120, y=79, z=209}
 [08Aug2025 08:47:49.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Disconnected
 [08Aug2025 08:47:49.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[08Aug2025 09:12:16.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.179.113.90:60999] logged in with entity id 126980 at (440.8964708394797, 83.0, 723.3156819451178)
+[08Aug2025 09:12:16.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[08Aug2025 09:12:16.613] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:15:55.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:36705] logged in with entity id 128256 at (452.8629401212129, 63.0, 577.4094222532966)
+[08Aug2025 09:15:55.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[08Aug2025 09:15:55.770] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:15:55.770] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:15:55.770] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:15:55.770] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:15:55.771] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 09:16:01.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> tarde
+[08Aug2025 09:16:04.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> diego
+[08Aug2025 09:16:07.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ven pal nether
+[08Aug2025 09:16:10.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> un poquito tarde
+[08Aug2025 09:16:18.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> un poquito na mas
+[08Aug2025 09:16:32.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> diego mira mi conexion
+[08Aug2025 09:16:33.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> bendecido
+[08Aug2025 09:16:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> eso e starlink de eso
