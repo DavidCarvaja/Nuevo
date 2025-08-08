@@ -2417,3 +2417,17 @@ java.lang.IndexOutOfBoundsException: Index -12 out of bounds for length 10
 [08Aug2025 08:15:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> gracias
 [08Aug2025 08:15:31.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
 [08Aug2025 08:15:31.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[08Aug2025 08:18:05.631] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 08:20:06.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ fell from a high place
+[08Aug2025 08:21:17.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=74, z=74} BlockPos{x=15, y=75, z=73}
+[08Aug2025 08:21:17.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=74, z=74} BlockPos{x=15, y=75, z=73}
+[08Aug2025 08:21:18.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=74, z=74} BlockPos{x=15, y=75, z=73}
+[08Aug2025 08:21:18.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=74, z=74} BlockPos{x=15, y=75, z=73}
+[08Aug2025 08:21:18.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=74, z=74} BlockPos{x=15, y=75, z=73}
+[08Aug2025 08:21:18.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=74, z=74} BlockPos{x=15, y=75, z=73}
+[08Aug2025 08:22:14.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ fell from a high place
+[08Aug2025 08:23:05.623] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[08Aug2025 08:26:12.541] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 08:26:12.542] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 08:26:12.542] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[08Aug2025 08:26:12.542] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
